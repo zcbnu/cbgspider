@@ -60,6 +60,8 @@ def calEquipVal(data):
 	statistic(data, val, lambda: val[2], lambda: 1)
 	val = _calSpeed(data)
 	statistic(data, val, lambda: val[2], lambda: val[1], True)
+	# val = _calSuit(data)
+	# statistic(data, val, lambda: val[2], lambda: val[1], True)
 
 def _checkMainAttr(data):
 	if data[u'pos'] not in _uselessMainAttr : return True
@@ -122,7 +124,21 @@ def _calAsset(data):
 	ret += int(data['strength'] / 2)
 	ret += int(data['money'] / 1000)
 	return ['AssetVal', ret]
-
+# 计算套装
+_importantAttrs = [u'speedAdditionVal', u'critRateAdditionVal', u'critPowerAdditionVal']
+def _calSuit(data):
+	ret = 0
+	name = ''
+	if u'rattr' not in data: return ['subValSuit', 0, name]
+	tabs = {}
+	for val in data[u'rattr']:
+		if val[0] not in tabs: tabs[val[0]] = 0
+		tabs[val[0]] += val[1]
+	mattr = data[u'attrs'][0][0]
+	for attr in _importantAttrs:
+		if attr not in tabs or tabs[attr] < 4: continue
+		return ['subValSuit', int(tabs[attr] * 1000), '{}{}-{}'.format(attr, data[u'suitid'], data[u'pos'])]
+	return ['subValSuit', 0, name]
 # 只算高速度和高暴击
 def _calSpecial(data):
 	ret = 0
@@ -160,7 +176,7 @@ def _calUsable(data):
 	if u'rattr' not in data: return ['subVal', 0]
 	for val in data[u'rattr']:
 		if val[0] in _usableAttrList: v += _usableAttrList[val[0]]
-	if v < 100 : v = 0
+	if v < 80 : v = 0
 	return ['subVal',v]
 
 def printEquip(ordersn, serverid):
@@ -195,21 +211,32 @@ def analyseEquipData(data):
 	_statis['AssetVal'] = _calAsset(detail)[1]
 	_statis['speedSum3'] = sum(_statis['speed'].values()) + 57
 	_statis['speedSum-2'] = (sum(_statis['speed'].values()) + 57 -_statis['speed'][2])*100
+	_statis['sumSuit'] = {}
+	# for key, v in _statis['subValSuit'].iteritems():
+	# 	if len(key) < 3 : continue
+	# 	params = key.split('-')
+	# 	if params[0] not in _statis['sumSuit'] : _statis['sumSuit'][params[0]] = 0
+	# 	_statis['sumSuit'][params[0]] += v
+
 	data['statis'] = _statis.copy()
 def dumpUserData(data):
 	detail=json.loads(data['equip_desc'])
 	equip=detail['inventory']
-	str=u'玩家:{name} 公示期结束:{fair_show_end_time} {desc_sumup_short} 收藏:{collect_num} ordersn:{ordersn}\n\t价格:{price}\t金币:{money} 体力:{strength} 勾玉:{goyu}\n\t御魂得分:{subVal}\t总数:{num}'
-	return str.format(name=detail['name'],fair_show_end_time=data['fair_show_end_time'],desc_sumup_short=data['desc_sumup_short'], ordersn=data['game_ordersn'],
-		collect_num=data['collect_num'],price=data['price'],money=detail['money'],strength=detail['strength'],goyu=detail['goyu'],
-		subVal=json.dumps(data['statis']),num=len(equip))
+	subval=''
+	for t,val in data['statis'].iteritems():
+		subval+='{}-{}\n\t'.format(t,json.dumps(val))
+	gallery='ssr={}/{} sp={}/{}'.format(detail['hero_history']['ssr']['got'],detail['hero_history']['ssr']['all'],detail['hero_history']['sp']['got'],detail['hero_history']['sp']['all'])
+	s=u'玩家:{name} 公示期结束:{fair_show_end_time} {desc_sumup_short} 收藏:{collect_num} ordersn:{ordersn}\n\t价格:{price}\t金币:{money} 体力:{strength} 勾玉:{goyu} 图鉴:{gallery}\n\t御魂得分:{subVal}\t总数:{num}'
+	return s.format(name=detail['name'],fair_show_end_time=data['fair_show_end_time'],desc_sumup_short=data['desc_sumup_short'], ordersn=data['game_ordersn'],
+		collect_num=data['collect_num'],price=data['price'],money=detail['money'],strength=detail['strength'],goyu=detail['goyu'],gallery=gallery,
+		subVal=subval,num=len(equip))
 def printUserData(data):
 	detail=json.loads(data['equip_desc'])
 	equip=detail['inventory']
 	print u'玩家:',detail['name'],u' 公示期结束:',data['fair_show_end_time'], data['desc_sumup_short'],u'收藏',data['collect_num'],'ordersn',data['game_ordersn']
 	tab='    '
 	print tab,u'价格',data['price'] / 100.0,
-	print tab,u'金币',detail['money'],u'体力',detail['strength'],u'勾玉',detail['goyu']
+	print tab,u'金币',detail['money'],u'体力',detail['strength'],u'勾玉',detail['goyu'], u'图鉴-ssr',detail['hero_history']['ssr']['got'],'/',detail['hero_history']['ssr']['all'],'sp',detail['hero_history']['sp']['got'],'/',detail['hero_history']['sp']['all']
 
 	for t,val in data['statis'].iteritems():
 		print tab,t,val
