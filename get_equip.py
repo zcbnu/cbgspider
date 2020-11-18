@@ -60,6 +60,8 @@ def calEquipVal(data):
 	statistic(data, val, lambda: val[2], lambda: 1)
 	val = _calSpeed(data)
 	statistic(data, val, lambda: val[2], lambda: val[1], True)
+	val = _calMaxSuit(data)
+	statistic(data, val, lambda: val[2], lambda: val[1], True)
 	# val = _calSuit(data)
 	# statistic(data, val, lambda: val[2], lambda: val[1], True)
 
@@ -104,6 +106,27 @@ _specialBonus = [
 	[u'critRateAdditionVal', 4.5, 100, [u'攻击加成2',u'攻击加成4',u'暴击伤害6'], 200],
 	[u'critRateAdditionVal', 5, 200, [u'攻击加成2',u'攻击加成4',u'暴击伤害6'], 400],
 ]
+
+_careSuit = ['poshi', 'zhennv', 'zhaocai', 'kuanggu']
+_realAttrMuti = {
+	u'speedAdditionVal' : 3,
+	u'critRateAdditionVal' : 3,
+	u'critPowerAdditionVal' : 4,
+}
+def _sumSuit(statis):
+	statis['suitSum'] = {}
+	for attr in _importantAttrs:
+		short = _importantShort[attr]
+		statis['suitSum'][short] = {}
+		for k,v in _suits.iteritems():
+			if v[1] not in _careSuit: continue
+			ret = 0
+			for pos in ['1','2','3','4','5','6']:
+				key = '{}{}-{}'.format(attr, k,pos)
+				if key in statis['suit']: ret += statis['suit'][key]
+			sumkey = '{}-{}'.format(v[1], short)
+			statis['suitSum'][short][sumkey] = ret * _realAttrMuti[attr]
+
 #计算一速
 def _calSpeed(data):
 	ret = 0
@@ -124,8 +147,30 @@ def _calAsset(data):
 	ret += int(data['strength'] / 2)
 	ret += int(data['money'] / 1000)
 	return ['AssetVal', ret]
+
+# 计算套装6个位置特定属性最大加成
+def _calMaxSuit(data):
+	ret = 0
+	name= ''
+	if u'rattr' not in data: return ['suit', 0, name]
+	tabs = {}
+	for val in data[u'rattr']:
+		if val[0] not in tabs: tabs[val[0]] = 0
+		tabs[val[0]] += val[1]
+	mattr = data[u'attrs'][0][0]
+	for attr in _importantAttrs:
+		if attr not in tabs or tabs[attr] < 4: continue;
+		if attr == u'speedAdditionVal' and data[u'pos'] == 2 and mattr != u'速度': continue;
+		ret = int(tabs[attr] * 1000)
+		name = '{}{}-{}'.format(attr, data[u'suitid'], data[u'pos'])
+	return ['suit', ret, name]
 # 计算套装
 _importantAttrs = [u'speedAdditionVal', u'critRateAdditionVal', u'critPowerAdditionVal']
+_importantShort = {
+	u'speedAdditionVal':'speed',
+	u'critRateAdditionVal':'crit',
+	u'critPowerAdditionVal':'criDmg'
+}
 def _calSuit(data):
 	ret = 0
 	name = ''
@@ -211,7 +256,7 @@ def analyseEquipData(data):
 	_statis['AssetVal'] = _calAsset(detail)[1]
 	_statis['speedSum3'] = sum(_statis['speed'].values()) + 57
 	_statis['speedSum-2'] = (sum(_statis['speed'].values()) + 57 -_statis['speed'][2])*100
-	_statis['sumSuit'] = {}
+	_sumSuit(_statis)
 	# for key, v in _statis['subValSuit'].iteritems():
 	# 	if len(key) < 3 : continue
 	# 	params = key.split('-')
@@ -219,6 +264,12 @@ def analyseEquipData(data):
 	# 	_statis['sumSuit'][params[0]] += v
 
 	data['statis'] = _statis.copy()
+_ignores = ['suit']
+def printStatis(statis):
+	c = {}
+	for k,v in statis.iteritems():
+		if k not in _ignores: c[k]= v
+	return prettyPrint(c, 5)
 def dumpUserData(data):
 	detail=json.loads(data['equip_desc'])
 	equip=detail['inventory']
@@ -226,10 +277,10 @@ def dumpUserData(data):
 	for t,val in data['statis'].iteritems():
 		subval+='{}-{}\n\t'.format(t,json.dumps(val))
 	gallery='ssr={}/{} sp={}/{}'.format(detail['hero_history']['ssr']['got'],detail['hero_history']['ssr']['all'],detail['hero_history']['sp']['got'],detail['hero_history']['sp']['all'])
-	s=u'玩家:{name} 公示期结束:{fair_show_end_time} {desc_sumup_short} 收藏:{collect_num} ordersn:{ordersn}\n\t价格:{price}\t金币:{money} 体力:{strength} 勾玉:{goyu} 图鉴:{gallery}\n\t御魂得分:{subVal}\t总数:{num}'
+	s=u'玩家:{name} 公示期结束:{fair_show_end_time} {desc_sumup_short} 收藏:{collect_num} ordersn:{ordersn}\n\t价格:{price}\t斗技:{pvp_score}金币:{money} 体力:{strength} 勾玉:{goyu} 图鉴:{gallery}\n\t御魂得分:{subVal}\t总数:{num}'
 	return s.format(name=detail['name'],fair_show_end_time=data['fair_show_end_time'],desc_sumup_short=data['desc_sumup_short'], ordersn=data['game_ordersn'],
-		collect_num=data['collect_num'],price=data['price'],money=detail['money'],strength=detail['strength'],goyu=detail['goyu'],gallery=gallery,
-		subVal=subval,num=len(equip))
+		collect_num=data['collect_num'],price=data['price'],money=detail['money'],strength=detail['strength'],goyu=detail['goyu'],gallery=gallery,pvp_score=detail['pvp_score'],
+		subVal=printStatis(data['statis']),num=len(equip))
 def printUserData(data):
 	detail=json.loads(data['equip_desc'])
 	equip=detail['inventory']
@@ -237,8 +288,36 @@ def printUserData(data):
 	tab='    '
 	print tab,u'价格',data['price'] / 100.0,
 	print tab,u'金币',detail['money'],u'体力',detail['strength'],u'勾玉',detail['goyu'], u'图鉴-ssr',detail['hero_history']['ssr']['got'],'/',detail['hero_history']['ssr']['all'],'sp',detail['hero_history']['sp']['got'],'/',detail['hero_history']['sp']['all']
-
-	for t,val in data['statis'].iteritems():
-		print tab,t,val
+	print tab,u'斗技',detail['pvp_score']
+	# print
+	# for t,val in data['statis'].iteritems():
+	# 	print tab,t,val
+	print printStatis(data['statis'])
 	print tab,u'御魂总数',len(equip),'======='
+
+def prettyPrint(data, t=0, NextLine=False):
+	s = ''
+	pre = ''
+	num = t
+	while num > 0:
+		pre += ' '
+		num -=1
+	if not isinstance(data, dict): 
+		s+= pre
+		s+= str(data)
+		if NextLine: s+= '\n'
+		return s
+	vs = data.values()
+	if not isinstance(vs[0], dict): 
+		s+= pre
+		s+= json.dumps(data)
+		if NextLine: s+= '\n'
+		return s
+	for k,v in data.iteritems():
+		s += prettyPrint(k, t)
+		s += ':\n'
+		s += prettyPrint(v, t+1, True)
+	return s
 # print(matchObj.group(1))
+
+# print prettyPrint({'1':{'a':'ss'},'2':3})
