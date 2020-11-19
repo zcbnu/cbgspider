@@ -256,6 +256,7 @@ def analyseEquipData(data):
 	_statis['AssetVal'] = _calAsset(detail)[1]
 	_statis['speedSum3'] = sum(_statis['speed'].values()) + 57
 	_statis['speedSum-2'] = (sum(_statis['speed'].values()) + 57 -_statis['speed'][2])*100
+	_statis['equipnum'] = len(detail['inventory'])
 	_sumSuit(_statis)
 	# for key, v in _statis['subValSuit'].iteritems():
 	# 	if len(key) < 3 : continue
