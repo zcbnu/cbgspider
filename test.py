@@ -205,13 +205,13 @@ def findKey(data, key):
 		else: return 0
 	return ret 
 sortAndPrint(ranks, [
-	"statis.speed.2"
+	"statis.speed.2",
 	"statis.suitSum.crit.poshi-crit",
 	"statis.suitSum.speed.zhaocai-speed",
 	"statis.speedSum-2",
 	"statis.speedSum3",
 	"statis.subValSpeical.critRateAdditionVal",
-	"statis.AssetVal"
+	"statis.AssetVal",
 	"detail.pvp_score",
 	"statis.equipnum",
 ])
