@@ -242,7 +242,7 @@ def printEquip(ordersn, serverid):
 	analyseEquipData(data)
 	# with open('./detail/'+ordersn+str(serverid)+'.json', 'w') as f:
 	# 	f.write(json.dumps(data))
-	print ordersn,serverid	
+	# print ordersn,serverid	
 	# printUserData(data)
 	return data
 # printEquip('202010242301616-34-YIIPLD50XSVGL', 34)
@@ -285,16 +285,16 @@ def dumpUserData(data):
 def printUserData(data):
 	detail=json.loads(data['equip_desc'])
 	equip=detail['inventory']
-	print u'玩家:',detail['name'],u' 公示期结束:',data['fair_show_end_time'], data['desc_sumup_short'],u'收藏',data['collect_num'],'ordersn',data['game_ordersn']
+	print (u'玩家:',detail['name'],u' 公示期结束:',data['fair_show_end_time'], data['desc_sumup_short'],u'收藏',data['collect_num'],'ordersn',data['game_ordersn'])
 	tab='    '
-	print tab,u'价格',data['price'] / 100.0,
-	print tab,u'金币',detail['money'],u'体力',detail['strength'],u'勾玉',detail['goyu'], u'图鉴-ssr',detail['hero_history']['ssr']['got'],'/',detail['hero_history']['ssr']['all'],'sp',detail['hero_history']['sp']['got'],'/',detail['hero_history']['sp']['all']
-	print tab,u'斗技',detail['pvp_score']
+	print (tab,u'价格',data['price'] / 100.0,)
+	print (tab,u'金币',detail['money'],u'体力',detail['strength'],u'勾玉',detail['goyu'], u'图鉴-ssr',detail['hero_history']['ssr']['got'],'/',detail['hero_history']['ssr']['all'],'sp',detail['hero_history']['sp']['got'],'/',detail['hero_history']['sp']['all'])
+	print (tab,u'斗技',detail['pvp_score'])
 	# print
 	# for t,val in data['statis'].iteritems():
-	# 	print tab,t,val
-	print printStatis(data['statis'])
-	print tab,u'御魂总数',len(equip),'======='
+	# 	print (tab,t,val)
+	print (printStatis(data['statis']))
+	print (tab,u'御魂总数',len(equip),'=======')
 
 def prettyPrint(data, t=0, NextLine=False):
 	s = ''
@@ -321,4 +321,4 @@ def prettyPrint(data, t=0, NextLine=False):
 	return s
 # print(matchObj.group(1))
 
-# print prettyPrint({'1':{'a':'ss'},'2':3})
+# print (prettyPrint({'1':{'a':'ss'},'2':3}))
