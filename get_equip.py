@@ -145,7 +145,7 @@ def _calAsset(data):
 	ret = 0
 	ret += int(data['goyu'])
 	ret += int(data['strength'] / 2)
-	ret += int(data['money'] / 1000)
+	ret += int(data['money'] / 3000)
 	return ['AssetVal', ret]
 
 # 计算套装6个位置特定属性最大加成
