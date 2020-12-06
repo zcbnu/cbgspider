@@ -1,34 +1,7 @@
 
 第1名======
-玩家:你如晚风来去自如 公示期结束:2020-11-19 15:30:54 SSR 32   六星式神 57   签到475天 收藏:5 ordersn:202011111501616-40-WHVAAFJYJGNX1
-	价格:255500	斗技:4170金币:833575 体力:7902 勾玉:13907 图鉴:ssr=31/31 sp=15/15
-	御魂得分:     suitSum:
-      crit:
-       {"zhaocai-crit": 72894, "zhennv-crit": 71523, "kuanggu-crit": 27213, "poshi-crit": 84993}
-      criDmg:
-       {"poshi-criDmg": 35928, "zhaocai-criDmg": 58908, "kuanggu-criDmg": 44108, "zhennv-criDmg": 56592}
-      speed:
-       {"zhennv-speed": 73656, "poshi-speed": 27477, "zhaocai-speed": 76407, "kuanggu-speed": 44430}
-     subVal:
-      {"_": 70818}
-     subValSpeical:
-      {"": 647, "critRateAdditionVal": 41, "speedAdditionVal": 71, "_3": 19800}
-     speedSum-2:
-      14021.2257893
-     speedSum3:
-      153.939616691
-     subValEffect:
-      {"zhaocai": 683, "poshi": 387, "_4": 5701, "suit0": 3747, "genv": 63, "huang": 87, "kuanggu": 309, "zhennv": 425}
-     equipnum:
-      759
-     speed:
-      {"1": 16.705285022921405, "2": 13.727358797921106, "3": 16.47590230390378, "4": 16.842028230152987, "5": 16.609621592350493, "6": 16.57942074414415}
-     AssetVal:
-      18691
-	总数:759
-第2名======
-玩家:啤酒瓶子 公示期结束:2020-11-13 15:12:01 SSR 55   六星式神 69   签到1083天 收藏:5 ordersn:202011051401616-3-NWVKUARURAL04N
-	价格:250000	斗技:4119金币:4906360 体力:15583 勾玉:20105 图鉴:ssr=31/31 sp=13/15
+玩家:啤酒瓶子 公示期结束:2020-11-13 15:12:01 SSR 55   六星式神 69   签到1083天 收藏:14 ordersn:202011051401616-3-NWVKUARURAL04N
+	价格:300000	斗技:4119金币:4906360 体力:15583 勾玉:20105 图鉴:ssr=31/31 sp=13/15
 	御魂得分:     suitSum:
       crit:
        {"zhaocai-crit": 88290, "zhennv-crit": 69225, "kuanggu-crit": 41889, "poshi-crit": 43728}
@@ -51,119 +24,38 @@
      speed:
       {"1": 16.51650786090871, "2": 14.252908341046464, "3": 16.957570954438857, "4": 16.688157397108633, "5": 16.841624839723046, "6": 16.8508437982338}
      AssetVal:
-      32802
+      29531
 	总数:1093
+第2名======
+玩家:隔壁的小明 公示期结束:2020-12-01 20:34:02 SSR 77   六星式神 78   签到767天 收藏:9 ordersn:202011232001616-31-7ESJUS1GZGZUI
+	价格:280000	斗技:3420金币:36763176 体力:2578 勾玉:6558 图鉴:ssr=29/31 sp=15/15
+	御魂得分:     suitSum:
+      crit:
+       {"zhaocai-crit": 57912, "zhennv-crit": 76137, "kuanggu-crit": 86145, "poshi-crit": 72042}
+      criDmg:
+       {"poshi-criDmg": 129228, "zhaocai-criDmg": 117940, "kuanggu-criDmg": 122796, "zhennv-criDmg": 71432}
+      speed:
+       {"zhennv-speed": 49479, "poshi-speed": 78126, "zhaocai-speed": 96156, "kuanggu-speed": 60252}
+     subVal:
+      {"_": 127735}
+     subValSpeical:
+      {"": 1193, "critRateAdditionVal": 88, "speedAdditionVal": 113, "_3": 46500}
+     speedSum-2:
+      14119.4497602
+     speedSum3:
+      157.132199605
+     subValEffect:
+      {"zhaocai": 960, "poshi": 783, "_4": 9909, "suit0": 6698, "genv": 71, "huang": 227, "kuanggu": 790, "zhennv": 380}
+     equipnum:
+      1394
+     speed:
+      {"1": 16.778399255176073, "2": 15.937702003622142, "3": 17.01123828904756, "4": 16.892685546527403, "5": 16.642154859272146, "6": 16.8700196515381}
+     AssetVal:
+      20101
+	总数:1394
 第3名======
-玩家:酒笙kongmu 公示期结束:2020-11-19 09:50:54 SSR 39   六星式神 58   签到738天 收藏:7 ordersn:202011110901616-31-DBEQEQOBWOFJL
-	价格:253300	斗技:3800金币:21385082 体力:22655 勾玉:44110 图鉴:ssr=31/31 sp=15/15
-	御魂得分:     suitSum:
-      crit:
-       {"zhaocai-crit": 45288, "zhennv-crit": 42702, "kuanggu-crit": 42720, "poshi-crit": 61824}
-      criDmg:
-       {"poshi-criDmg": 73056, "zhaocai-criDmg": 43956, "kuanggu-criDmg": 17744, "zhennv-criDmg": 39896}
-      speed:
-       {"zhennv-speed": 31125, "poshi-speed": 40338, "zhaocai-speed": 71481, "kuanggu-speed": 13635}
-     subVal:
-      {"_": 95957}
-     subValSpeical:
-      {"": 1152, "critRateAdditionVal": 53, "speedAdditionVal": 67, "_3": 24800}
-     speedSum-2:
-      14093.8731309
-     speedSum3:
-      156.980690041
-     subValEffect:
-      {"zhaocai": 467, "poshi": 534, "_4": 6439, "suit0": 4227, "genv": 237, "huang": 224, "kuanggu": 331, "zhennv": 419}
-     equipnum:
-      1272
-     speed:
-      {"1": 16.33315878138065, "2": 16.04195873243698, "3": 16.866284706722805, "4": 16.61518360416769, "5": 17.31848438330835, "6": 16.805619833431997}
-     AssetVal:
-      76822
-	总数:1272
-第4名======
-玩家:你不要过来啊丶 公示期结束:2020-11-16 11:29:22 SSR 49   六星式神 62   签到823天 收藏:14 ordersn:202011081001616-12-MZP6STI8TRVYO
-	价格:180000	斗技:3540金币:5534850 体力:10604 勾玉:5222 图鉴:ssr=31/31 sp=12/15
-	御魂得分:     suitSum:
-      crit:
-       {"zhaocai-crit": 74118, "zhennv-crit": 72249, "kuanggu-crit": 74994, "poshi-crit": 58065}
-      criDmg:
-       {"poshi-criDmg": 102324, "zhaocai-criDmg": 61016, "kuanggu-criDmg": 40068, "zhennv-criDmg": 57728}
-      speed:
-       {"zhennv-speed": 53685, "poshi-speed": 65619, "zhaocai-speed": 75237, "kuanggu-speed": 48456}
-     subVal:
-      {"_": 94550}
-     subValSpeical:
-      {"": 947, "critRateAdditionVal": 45, "speedAdditionVal": 80, "_3": 27100}
-     speedSum-2:
-      14105.8986677
-     speedSum3:
-      157.016627376
-     subValEffect:
-      {"zhaocai": 779, "poshi": 826, "_4": 6551, "suit0": 3694, "genv": 106, "huang": 189, "kuanggu": 611, "zhennv": 346}
-     equipnum:
-      1072
-     speed:
-      {"1": 16.614043176737646, "2": 15.95764069881976, "3": 16.948996494137045, "4": 16.922435389376112, "5": 16.722381166340377, "6": 16.851130450749643}
-     AssetVal:
-      16058
-	总数:1072
-第5名======
-玩家:全图N套爆伤套 公示期结束:2020-11-12 10:12:13 SSR 56   六星式神 55   签到792天 收藏:3 ordersn:202011040901616-13-KMUVLUWJKKA9Y
-	价格:180000	斗技:3540金币:8926795 体力:18986 勾玉:1903 图鉴:ssr=31/31 sp=15/15
-	御魂得分:     suitSum:
-      crit:
-       {"zhaocai-crit": 31836, "zhennv-crit": 32691, "kuanggu-crit": 55245, "poshi-crit": 44232}
-      criDmg:
-       {"poshi-criDmg": 120000, "zhaocai-criDmg": 36904, "kuanggu-criDmg": 102132, "zhennv-criDmg": 92160}
-      speed:
-       {"zhennv-speed": 41352, "poshi-speed": 44181, "zhaocai-speed": 54051, "kuanggu-speed": 60843}
-     subVal:
-      {"_": 86369}
-     subValSpeical:
-      {"": 1007, "critRateAdditionVal": 42, "speedAdditionVal": 69, "_3": 21500}
-     speedSum-2:
-      14086.33038
-     speedSum3:
-      154.395194856
-     subValEffect:
-      {"zhaocai": 435, "poshi": 423, "_4": 5848, "suit0": 3911, "genv": 119, "huang": 159, "kuanggu": 343, "zhennv": 458}
-     equipnum:
-      1118
-     speed:
-      {"1": 16.899736123889504, "2": 13.531891056180132, "3": 17.015657197702, "4": 16.739258013451554, "5": 16.697195223961867, "6": 16.511457240813414}
-     AssetVal:
-      20322
-	总数:1118
-第6名======
-玩家:东观 公示期结束:2020-11-20 18:52:12 SSR 39   六星式神 64   签到662天 收藏:5 ordersn:202010261601616-3-YPT7LE6M8ESRCA
-	价格:288800	斗技:3240金币:23821396 体力:15305 勾玉:4785 图鉴:ssr=31/31 sp=15/15
-	御魂得分:     suitSum:
-      crit:
-       {"zhaocai-crit": 55170, "zhennv-crit": 58404, "kuanggu-crit": 59658, "poshi-crit": 67236}
-      criDmg:
-       {"poshi-criDmg": 37072, "zhaocai-criDmg": 57492, "kuanggu-criDmg": 58688, "zhennv-criDmg": 40580}
-      speed:
-       {"zhennv-speed": 72639, "poshi-speed": 55491, "zhaocai-speed": 96618, "kuanggu-speed": 30951}
-     subVal:
-      {"_": 109439}
-     subValSpeical:
-      {"": 1061, "critRateAdditionVal": 56, "speedAdditionVal": 72, "_3": 29100}
-     speedSum-2:
-      14015.6752175
-     speedSum3:
-      156.503460966
-     subValEffect:
-      {"zhaocai": 581, "poshi": 672, "_4": 7039, "suit0": 4413, "genv": 133, "huang": 189, "kuanggu": 370, "zhennv": 681}
-     equipnum:
-      1189
-     speed:
-      {"1": 17.297359085727017, "2": 16.346708791018056, "3": 16.320682384194242, "4": 16.4580956077967, "5": 16.285003407875408, "6": 16.795611689558022}
-     AssetVal:
-      36258
-	总数:1189
-第7名======
-玩家:麓小丸 公示期结束:2020-11-15 20:55:23 SSR 75   六星式神 75   签到1027天 收藏:7 ordersn:202011072001616-3-7F1SDX3CHYXFZF
-	价格:220000	斗技:3240金币:30949159 体力:19926 勾玉:2862 图鉴:ssr=31/31 sp=15/15
+玩家:麓小丸 公示期结束:2020-11-15 20:55:23 SSR 75   六星式神 75   签到1027天 收藏:12 ordersn:202011072001616-3-7F1SDX3CHYXFZF
+	价格:210000	斗技:3240金币:30949159 体力:19926 勾玉:2862 图鉴:ssr=31/31 sp=15/15
 	御魂得分:     suitSum:
       crit:
        {"zhaocai-crit": 70536, "zhennv-crit": 58590, "kuanggu-crit": 29886, "poshi-crit": 73884}
@@ -186,767 +78,470 @@
      speed:
       {"1": 16.016332977518964, "2": 15.879587592697327, "3": 16.38913489469675, "4": 16.74382778617089, "5": 16.978952886355138, "6": 16.550625423891976}
      AssetVal:
-      43774
+      23141
 	总数:1220
+第4名======
+玩家:枫婲 公示期结束:2020-12-06 15:06:52 SSR 57   六星式神 66   签到992天 收藏:48 ordersn:202011281401616-24-4UOYGXL5JGTB9
+	价格:250000	斗技:2963金币:6965086 体力:38945 勾玉:17663 图鉴:ssr=31/31 sp=16/16
+	御魂得分:     suitSum:
+      crit:
+       {"zhaocai-crit": 73374, "zhennv-crit": 70671, "kuanggu-crit": 28020, "poshi-crit": 86841}
+      criDmg:
+       {"poshi-criDmg": 94624, "zhaocai-criDmg": 79236, "kuanggu-criDmg": 58376, "zhennv-criDmg": 80204}
+      speed:
+       {"zhennv-speed": 32886, "poshi-speed": 70962, "zhaocai-speed": 91941, "kuanggu-speed": 41709}
+     subVal:
+      {"_": 120357}
+     subValSpeical:
+      {"": 1201, "critRateAdditionVal": 49, "speedAdditionVal": 92, "_3": 31600}
+     speedSum-2:
+      13949.2068866
+     speedSum3:
+      155.93245444
+     subValEffect:
+      {"genv": 172, "poshi": 704, "_4": 8354, "suit0": 5169, "zhaocai": 1344, "huang": 128, "kuanggu": 328, "zhennv": 509}
+     equipnum:
+      1342
+     speed:
+      {"1": 16.652318760424006, "2": 16.44038557409947, "3": 16.446181726159118, "4": 16.277098908445932, "5": 16.92576147041713, "6": 16.190708000803884}
+     AssetVal:
+      39456
+	总数:1342
+第5名======
+玩家:结局就算不如意 公示期结束:2020-12-01 21:18:04 SSR 57   六星式神 75   签到1380天 收藏:13 ordersn:202011232001616-2-YFAKDAN0WTF4BX
+	价格:245000	斗技:2835金币:12186624 体力:12162 勾玉:27869 图鉴:ssr=31/31 sp=15/15
+	御魂得分:     suitSum:
+      crit:
+       {"zhaocai-crit": 27027, "zhennv-crit": 75762, "kuanggu-crit": 39792, "poshi-crit": 33012}
+      criDmg:
+       {"poshi-criDmg": 75768, "zhaocai-criDmg": 36124, "kuanggu-criDmg": 54984, "zhennv-criDmg": 36428}
+      speed:
+       {"zhennv-speed": 29412, "poshi-speed": 44898, "zhaocai-speed": 58233, "kuanggu-speed": 29604}
+     subVal:
+      {"_": 93448}
+     subValSpeical:
+      {"": 1144, "critRateAdditionVal": 38, "speedAdditionVal": 71, "_3": 23200}
+     speedSum-2:
+      14089.3298169
+     speedSum3:
+      156.404962572
+     subValEffect:
+      {"genv": 123, "poshi": 380, "_4": 5638, "suit0": 3896, "zhaocai": 271, "huang": 156, "kuanggu": 242, "zhennv": 570}
+     equipnum:
+      1253
+     speed:
+      {"1": 16.214497243043002, "2": 15.511664403250252, "3": 16.794545170918752, "4": 16.732383481434113, "5": 17.27492185820099, "6": 16.87695041550205}
+     AssetVal:
+      38012
+	总数:1253
+第6名======
+玩家:呦呦丶鹿鸣 公示期结束:2020-12-05 19:17:30 SSR 61   六星式神 67   签到1329天 收藏:1 ordersn:202011271801616-12-5KHKUG7QR1RWJ
+	价格:210000	斗技:2708金币:6880124 体力:30291 勾玉:93 图鉴:ssr=31/31 sp=15/16
+	御魂得分:     suitSum:
+      crit:
+       {"zhaocai-crit": 71598, "zhennv-crit": 73329, "kuanggu-crit": 16164, "poshi-crit": 31611}
+      criDmg:
+       {"poshi-criDmg": 78736, "zhaocai-criDmg": 57884, "kuanggu-criDmg": 58212, "zhennv-criDmg": 54404}
+      speed:
+       {"zhennv-speed": 30396, "poshi-speed": 59763, "zhaocai-speed": 76956, "kuanggu-speed": 40479}
+     subVal:
+      {"_": 75582}
+     subValSpeical:
+      {"": 788, "critRateAdditionVal": 46, "speedAdditionVal": 65, "_3": 24900}
+     speedSum-2:
+      13995.8618913
+     speedSum3:
+      156.044544979
+     subValEffect:
+      {"zhaocai": 638, "poshi": 505, "_4": 5404, "suit0": 3511, "genv": 48, "huang": 138, "kuanggu": 151, "zhennv": 413}
+     equipnum:
+      899
+     speed:
+      {"1": 16.25387971980546, "2": 16.085926065753437, "3": 16.798372049071894, "4": 16.788113169456373, "5": 16.335407535122407, "6": 16.782846439308955}
+     AssetVal:
+      17531
+	总数:899
+第7名======
+玩家:名仕典藏资源多 公示期结束:2020-11-23 13:37:57 SSR 61   六星式神 66   签到894天 收藏:9 ordersn:202011151301616-13-PZMDBUI1R8PTJ
+	价格:259900	斗技:2700金币:39031123 体力:35852 勾玉:99225 图鉴:ssr=31/31 sp=15/15
+	御魂得分:     suitSum:
+      crit:
+       {"zhaocai-crit": 43326, "zhennv-crit": 29526, "kuanggu-crit": 42999, "poshi-crit": 60330}
+      criDmg:
+       {"poshi-criDmg": 54500, "zhaocai-criDmg": 35000, "kuanggu-criDmg": 18168, "zhennv-criDmg": 37420}
+      speed:
+       {"zhennv-speed": 44418, "poshi-speed": 56433, "zhaocai-speed": 73122, "kuanggu-speed": 27705}
+     subVal:
+      {"_": 87614}
+     subValSpeical:
+      {"": 990, "critRateAdditionVal": 41, "speedAdditionVal": 75, "_3": 20300}
+     speedSum-2:
+      14112.0163588
+     speedSum3:
+      155.519841716
+     subValEffect:
+      {"zhaocai": 449, "poshi": 605, "_4": 6113, "suit0": 3771, "genv": 197, "huang": 249, "kuanggu": 391, "zhennv": 451}
+     equipnum:
+      1106
+     speed:
+      {"1": 16.588575761888556, "2": 14.399678127962414, "3": 16.941320806828337, "4": 16.945005274606817, "5": 17.218671781645337, "6": 16.426589963033564}
+     AssetVal:
+      130161
+	总数:1106
 第8名======
-玩家:大姐千姬 公示期结束:2020-11-19 11:05:08 SSR 73   六星式神 83   签到693天 收藏:24 ordersn:202011111001616-34-ZMPXDZYNPNEPI
-	价格:290000	斗技:3120金币:26468195 体力:29319 勾玉:38746 图鉴:ssr=31/31 sp=15/15
+玩家:长河落日圆丶 公示期结束:2020-11-28 15:40:58 SSR 46   六星式神 77   签到1373天 收藏:8 ordersn:202011201501616-17-OCKXJXMYWMKYT
+	价格:300000	斗技:2700金币:12397206 体力:12865 勾玉:232 图鉴:ssr=30/31 sp=15/15
 	御魂得分:     suitSum:
       crit:
-       {"zhaocai-crit": 56997, "zhennv-crit": 57492, "kuanggu-crit": 46548, "poshi-crit": 60366}
+       {"zhaocai-crit": 42972, "zhennv-crit": 26826, "kuanggu-crit": 58203, "poshi-crit": 72495}
       criDmg:
-       {"poshi-criDmg": 22200, "zhaocai-criDmg": 75016, "kuanggu-criDmg": 96540, "zhennv-criDmg": 73120}
+       {"poshi-criDmg": 97636, "zhaocai-criDmg": 101592, "kuanggu-criDmg": 82012, "zhennv-criDmg": 120788}
       speed:
-       {"zhennv-speed": 70812, "poshi-speed": 62109, "zhaocai-speed": 62220, "kuanggu-speed": 26721}
+       {"zhennv-speed": 58641, "poshi-speed": 47727, "zhaocai-speed": 70926, "kuanggu-speed": 27777}
      subVal:
-      {"_": 113800}
+      {"_": 69960}
      subValSpeical:
-      {"": 1097, "critRateAdditionVal": 50, "speedAdditionVal": 91, "_3": 26300}
+      {"": 634, "critRateAdditionVal": 43, "speedAdditionVal": 79, "_3": 26000}
      speedSum-2:
-      14074.0564717
+      14130.4741111
      speedSum3:
-      157.087915142
+      157.159093075
      subValEffect:
-      {"zhaocai": 557, "poshi": 528, "_4": 7602, "suit0": 5251, "genv": 228, "huang": 111, "kuanggu": 454, "zhennv": 473}
+      {"genv": 198, "poshi": 464, "_4": 5906, "suit0": 3724, "zhaocai": 460, "huang": 237, "kuanggu": 381, "zhennv": 442}
      equipnum:
-      1238
+      756
      speed:
-      {"1": 16.807882494648013, "2": 16.347350425011985, "3": 16.78913120716824, "4": 16.552176011709577, "5": 16.62624986716593, "6": 16.965125136441255}
+      {"1": 16.64480733274802, "2": 15.854351963524948, "3": 16.683986047580476, "4": 17.416330098849297, "5": 16.71759378282064, "6": 16.84202384938214}
      AssetVal:
-      79873
-	总数:1238
+      10796
+	总数:756
 第9名======
-玩家:这是神经不是信仰 公示期结束:2020-11-23 20:05:57 SSR 79   六星式神 83   签到436天 收藏:1 ordersn:202011151901616-42-UTKK8YJFPAYFT
-	价格:300000	斗技:3104金币:36680711 体力:4390 勾玉:31451 图鉴:ssr=31/31 sp=15/15
+玩家:法芙娜 公示期结束:2020-12-06 17:56:30 SSR 77   六星式神 57   签到961天 收藏:1 ordersn:202011281601616-8-NICN8JQFHIM54B
+	价格:270000	斗技:2700金币:2053303 体力:12753 勾玉:853 图鉴:ssr=31/31 sp=15/16
 	御魂得分:     suitSum:
       crit:
-       {"zhaocai-crit": 72408, "zhennv-crit": 69756, "kuanggu-crit": 59313, "poshi-crit": 71550}
+       {"zhaocai-crit": 30537, "zhennv-crit": 27123, "kuanggu-crit": 42534, "poshi-crit": 54537}
       criDmg:
-       {"poshi-criDmg": 59384, "zhaocai-criDmg": 56988, "kuanggu-criDmg": 40136, "zhennv-criDmg": 79348}
+       {"poshi-criDmg": 54012, "zhaocai-criDmg": 63828, "kuanggu-criDmg": 18848, "zhennv-criDmg": 57252}
       speed:
-       {"zhennv-speed": 72801, "poshi-speed": 54780, "zhaocai-speed": 73794, "kuanggu-speed": 66522}
+       {"zhennv-speed": 61059, "poshi-speed": 13749, "zhaocai-speed": 79479, "kuanggu-speed": 40977}
      subVal:
-      {"_": 111032}
+      {"_": 84218}
      subValSpeical:
-      {"": 1165, "critRateAdditionVal": 57, "speedAdditionVal": 104, "_3": 29000}
+      {"": 1105, "critRateAdditionVal": 37, "speedAdditionVal": 60, "_3": 21500}
      speedSum-2:
-      14142.4619981
+      14157.2194558
      speedSum3:
-      155.329032015
+      157.419358766
      subValEffect:
-      {"zhaocai": 677, "poshi": 805, "_4": 7402, "suit0": 4529, "genv": 86, "huang": 280, "kuanggu": 659, "zhennv": 366}
+      {"zhaocai": 697, "poshi": 491, "_4": 5148, "suit0": 2966, "genv": 103, "huang": 155, "kuanggu": 339, "zhennv": 397}
      equipnum:
-      1326
+      1202
      speed:
-      {"1": 16.638053367521874, "2": 13.904412034116426, "3": 16.88448173980251, "4": 16.7650359053206, "5": 17.16921499673361, "6": 16.967833971400204}
+      {"1": 17.060770388150598, "2": 15.847164208701635, "3": 17.120844764607472, "4": 17.09813350449624, "5": 17.04762735210504, "6": 16.244818548292628}
      AssetVal:
-      70326
-	总数:1326
+      7913
+	总数:1202
 第10名======
-玩家:一根排骨 公示期结束:2020-11-07 16:55:07 SSR 45   六星式神 68   签到1168天 收藏:16 ordersn:202010301001616-17-J7HNNHC5ZGZCD
-	价格:215000	斗技:3030金币:246612 体力:8009 勾玉:10255 图鉴:ssr=30/31 sp=15/15
+玩家:波波爬 公示期结束:2020-12-07 01:49:54 SSR 59   六星式神 87   签到1176天 收藏:2 ordersn:202011290101616-4-I6SY6QZRKVDAVS
+	价格:288800	斗技:2668金币:7658161 体力:12380 勾玉:645 图鉴:ssr=30/31 sp=16/16
 	御魂得分:     suitSum:
       crit:
-       {"zhaocai-crit": 77610, "zhennv-crit": 44175, "kuanggu-crit": 68106, "poshi-crit": 73641}
+       {"zhaocai-crit": 83790, "zhennv-crit": 58242, "kuanggu-crit": 53979, "poshi-crit": 92871}
       criDmg:
-       {"poshi-criDmg": 62148, "zhaocai-criDmg": 82436, "kuanggu-criDmg": 52648, "zhennv-criDmg": 54708}
+       {"poshi-criDmg": 60252, "zhaocai-criDmg": 75276, "kuanggu-criDmg": 36816, "zhennv-criDmg": 96496}
       speed:
-       {"zhennv-speed": 15513, "poshi-speed": 56676, "zhaocai-speed": 77052, "kuanggu-speed": 85815}
+       {"zhennv-speed": 90117, "poshi-speed": 89532, "zhaocai-speed": 72621, "kuanggu-speed": 45930}
      subVal:
-      {"_": 107419}
+      {"_": 138197}
      subValSpeical:
-      {"": 1203, "critRateAdditionVal": 47, "speedAdditionVal": 70, "_3": 23000}
+      {"": 1266, "critRateAdditionVal": 106, "speedAdditionVal": 103, "_3": 46000}
      speedSum-2:
-      14129.8275403
+      14135.3293209
      speedSum3:
-      155.128123278
+      158.243575733
      subValEffect:
-      {"zhaocai": 779, "poshi": 626, "_4": 5856, "suit0": 3446, "genv": 78, "huang": 193, "kuanggu": 404, "zhennv": 330}
+      {"zhaocai": 815, "poshi": 973, "_4": 11238, "suit0": 8193, "genv": 55, "huang": 147, "kuanggu": 376, "zhennv": 679}
      equipnum:
-      1320
+      1475
      speed:
-      {"1": 17.11312521591973, "2": 13.829847875247054, "3": 16.918367992461807, "4": 16.530629226810202, "5": 17.122822073425358, "6": 16.613330894472906}
+      {"1": 16.983240699997364, "2": 16.890282524518888, "3": 16.927796159613624, "4": 16.787503918905035, "5": 16.836821385378773, "6": 16.81793104491281}
      AssetVal:
-      14505
-	总数:1320
+      9387
+	总数:1475
 第11名======
-玩家:富冈·義勇 公示期结束:2020-11-11 23:01:32 SSR 52   六星式神 76   签到1300天 收藏:10 ordersn:202011032201616-10-M8TFS0UCZNWJI
-	价格:300000	斗技:2941金币:12337792 体力:14222 勾玉:20068 图鉴:ssr=31/31 sp=15/15
+玩家:元氣少女缘结神 公示期结束:2020-12-06 10:33:49 SSR 49   六星式神 96   签到834天 收藏:8 ordersn:202011281001616-31-0XD2PBYHY6N4G
+	价格:270000	斗技:2624金币:96802724 体力:58160 勾玉:4034 图鉴:ssr=31/31 sp=15/16
 	御魂得分:     suitSum:
       crit:
-       {"zhaocai-crit": 55119, "zhennv-crit": 72621, "kuanggu-crit": 15903, "poshi-crit": 72078}
+       {"zhaocai-crit": 57444, "zhennv-crit": 76182, "kuanggu-crit": 61101, "poshi-crit": 84708}
       criDmg:
-       {"poshi-criDmg": 55924, "zhaocai-criDmg": 78648, "kuanggu-criDmg": 40104, "zhennv-criDmg": 83132}
+       {"poshi-criDmg": 80128, "zhaocai-criDmg": 38992, "kuanggu-criDmg": 54208, "zhennv-criDmg": 75328}
       speed:
-       {"zhennv-speed": 42270, "poshi-speed": 62310, "zhaocai-speed": 91572, "kuanggu-speed": 45990}
+       {"zhennv-speed": 68730, "poshi-speed": 59445, "zhaocai-speed": 59823, "kuanggu-speed": 60882}
      subVal:
-      {"_": 117452}
+      {"_": 90338}
      subValSpeical:
-      {"": 1294, "critRateAdditionVal": 39, "speedAdditionVal": 97, "_3": 27000}
+      {"": 986, "critRateAdditionVal": 60, "speedAdditionVal": 66, "_3": 22200}
      speedSum-2:
-      13997.0753019
+      14006.122978
      speedSum3:
-      153.743754576
+      153.818193162
      subValEffect:
-      {"zhaocai": 1174, "poshi": 920, "_4": 7498, "suit0": 4319, "genv": 35, "huang": 233, "kuanggu": 383, "zhennv": 434}
+      {"zhaocai": 615, "poshi": 753, "_4": 6957, "suit0": 4412, "genv": 95, "huang": 130, "kuanggu": 411, "zhennv": 541}
      equipnum:
-      1430
+      1112
      speed:
-      {"1": 16.870786036000183, "2": 13.773001556594632, "3": 16.462424562866616, "4": 16.417761736893667, "5": 16.3975598030075, "6": 16.822220880629217}
+      {"1": 16.55568638727787, "2": 13.756963382540771, "3": 16.58130705631377, "4": 16.69675503107076, "5": 16.584268580540016, "6": 16.64321272470474}
      AssetVal:
-      39516
-	总数:1430
+      65381
+	总数:1112
 第12名======
-玩家:从前有个弟弟 公示期结束:2020-10-11 10:47:59 SSR 78   六星式神 80   签到1068天 收藏:14 ordersn:202010030801616-3-VHNKFYMAEF7XNR
-	价格:269900	斗技:2716金币:22210750 体力:27861 勾玉:5234 图鉴:ssr=30/30 sp=15/15
+玩家:阁下与我同归 公示期结束:2020-11-29 21:30:35 SSR 59   六星式神 69   签到897天 收藏:27 ordersn:202011212101616-10-WUMKGBNLBXHVH
+	价格:250000	斗技:2600金币:12431365 体力:40693 勾玉:7726 图鉴:ssr=29/31 sp=14/15
 	御魂得分:     suitSum:
       crit:
-       {"zhaocai-crit": 81417, "zhennv-crit": 42282, "kuanggu-crit": 44928, "poshi-crit": 57642}
+       {"zhaocai-crit": 75723, "zhennv-crit": 43305, "kuanggu-crit": 27261, "poshi-crit": 55449}
       criDmg:
-       {"poshi-criDmg": 57588, "zhaocai-criDmg": 62024, "kuanggu-criDmg": 35788, "zhennv-criDmg": 73592}
+       {"poshi-criDmg": 59448, "zhaocai-criDmg": 73620, "kuanggu-criDmg": 57328, "zhennv-criDmg": 94040}
       speed:
-       {"zhennv-speed": 75576, "poshi-speed": 56841, "zhaocai-speed": 39954, "kuanggu-speed": 26115}
+       {"zhennv-speed": 30018, "poshi-speed": 43956, "zhaocai-speed": 58014, "kuanggu-speed": 84984}
      subVal:
-      {"_": 93431}
+      {"_": 75682}
      subValSpeical:
-      {"": 938, "critRateAdditionVal": 46, "speedAdditionVal": 66, "_3": 23200}
+      {"": 971, "critRateAdditionVal": 33, "speedAdditionVal": 60, "_3": 26700}
      speedSum-2:
-      13974.9947684
+      14048.55231
      speedSum3:
-      156.250604794
+      156.934444579
      subValEffect:
-      {"zhaocai": 533, "poshi": 580, "_4": 6418, "suit0": 4009, "genv": 176, "huang": 203, "kuanggu": 376, "zhennv": 541}
+      {"zhaocai": 449, "poshi": 408, "_4": 4744, "suit0": 2969, "genv": 106, "huang": 108, "kuanggu": 476, "zhennv": 228}
      equipnum:
-      1050
+      1064
      speed:
-      {"1": 16.756595174480722, "2": 16.50065710925637, "3": 16.286374512747898, "4": 16.425808946300265, "5": 16.50655833122324, "6": 16.77461071970388}
+      {"1": 17.355907805895633, "2": 16.44892147807244, "3": 16.25562337329144, "4": 16.56995187154419, "5": 16.70952009339549, "6": 16.59451995634827}
      AssetVal:
-      41374
-	总数:1050
+      32215
+	总数:1064
 第13名======
-玩家:小楼听风语 公示期结束:2020-11-23 20:39:17 SSR 53   六星式神 75   签到764天 收藏:6 ordersn:202011151701616-33-K5GWCG3OLT1JE
-	价格:188800	斗技:2710金币:12660557 体力:4837 勾玉:13934 图鉴:ssr=31/31 sp=12/15
+玩家:Tao宝逸趣情趣 公示期结束:2020-10-02 09:14:50 SSR 68   六星式神 61   签到919天 收藏:4 ordersn:202009240801616-13-0RWPDH9IZQA3H
+	价格:234500	斗技:2527金币:11402575 体力:4107 勾玉:21877 图鉴:ssr=30/30 sp=15/15
 	御魂得分:     suitSum:
       crit:
-       {"zhaocai-crit": 26775, "zhennv-crit": 46668, "kuanggu-crit": 43479, "poshi-crit": 43476}
+       {"zhaocai-crit": 54768, "zhennv-crit": 55482, "kuanggu-crit": 27537, "poshi-crit": 44247}
       criDmg:
-       {"poshi-criDmg": 37108, "zhaocai-criDmg": 60856, "kuanggu-criDmg": 84416, "zhennv-criDmg": 66456}
+       {"poshi-criDmg": 40824, "zhaocai-criDmg": 79508, "kuanggu-criDmg": 94276, "zhennv-criDmg": 0}
       speed:
-       {"zhennv-speed": 15876, "poshi-speed": 46377, "zhaocai-speed": 41709, "kuanggu-speed": 26928}
+       {"zhennv-speed": 13185, "poshi-speed": 68445, "zhaocai-speed": 70032, "kuanggu-speed": 13185}
      subVal:
-      {"_": 94301}
+      {"_": 66760}
      subValSpeical:
-      {"": 1139, "critRateAdditionVal": 42, "speedAdditionVal": 65, "_3": 21400}
+      {"": 770, "critRateAdditionVal": 31, "speedAdditionVal": 51, "_3": 16100}
      speedSum-2:
-      14045.2043349
+      13923.6671571
      speedSum3:
-      156.743090922
+      152.649033521
      subValEffect:
-      {"genv": 157, "poshi": 488, "_4": 5741, "suit0": 3675, "zhaocai": 520, "huang": 173, "kuanggu": 402, "zhennv": 326}
+      {"zhaocai": 647, "poshi": 530, "_4": 4639, "suit0": 2739, "genv": 47, "huang": 54, "kuanggu": 231, "zhennv": 391}
      equipnum:
-      1246
+      852
      speed:
-      {"1": 16.70708572760215, "2": 16.291047572855483, "3": 16.159949937494076, "4": 16.959011968558215, "5": 16.820826131522495, "6": 16.805169583557323}
+      {"1": 16.672233705763112, "2": 13.412361949731157, "3": 16.582553115744595, "4": 16.483432151765527, "5": 16.124904546098783, "6": 16.37354805157914}
      AssetVal:
-      29012
-	总数:1246
+      27730
+	总数:852
 第14名======
-玩家:冷禅のの 公示期结束:2020-11-21 19:29:24 SSR 50   六星式神 89   签到1307天 收藏:16 ordersn:202011131801616-2-HTKU2SXABNOLQH
-	价格:240000	斗技:2701金币:8848506 体力:23230 勾玉:28798 图鉴:ssr=31/31 sp=15/15
+玩家:时间锁浮云 公示期结束:2020-11-16 18:13:25 SSR 67   六星式神 74   签到810天 收藏:10 ordersn:202011081701616-30-WRK8DC2CVLKOG
+	价格:296800	斗技:2454金币:17907305 体力:27840 勾玉:13830 图鉴:ssr=31/31 sp=15/15
 	御魂得分:     suitSum:
       crit:
-       {"zhaocai-crit": 41808, "zhennv-crit": 74484, "kuanggu-crit": 68673, "poshi-crit": 68850}
+       {"zhaocai-crit": 40734, "zhennv-crit": 55545, "kuanggu-crit": 46872, "poshi-crit": 68229}
       criDmg:
-       {"poshi-criDmg": 73900, "zhaocai-criDmg": 40492, "kuanggu-criDmg": 36948, "zhennv-criDmg": 54896}
+       {"poshi-criDmg": 65452, "zhaocai-criDmg": 54624, "kuanggu-criDmg": 59784, "zhennv-criDmg": 55528}
       speed:
-       {"zhennv-speed": 55917, "poshi-speed": 87549, "zhaocai-speed": 58938, "kuanggu-speed": 55578}
+       {"zhennv-speed": 64062, "poshi-speed": 56757, "zhaocai-speed": 73095, "kuanggu-speed": 68061}
      subVal:
-      {"_": 104727}
+      {"_": 78205}
      subValSpeical:
-      {"": 1153, "critRateAdditionVal": 48, "speedAdditionVal": 86, "_3": 30400}
+      {"": 952, "critRateAdditionVal": 42, "speedAdditionVal": 69, "_3": 25100}
      speedSum-2:
-      13873.0301492
+      14113.2534725
      speedSum3:
-      155.301456081
+      156.87359193
      subValEffect:
-      {"genv": 63, "poshi": 630, "_4": 6641, "suit0": 3999, "zhaocai": 622, "huang": 175, "kuanggu": 547, "zhennv": 605}
+      {"zhaocai": 318, "poshi": 610, "_4": 5069, "suit0": 3221, "genv": 28, "huang": 111, "kuanggu": 450, "zhennv": 331}
      equipnum:
-      1287
+      1063
      speed:
-      {"1": 16.59401658136883, "2": 16.57115458880065, "3": 16.209054626373533, "4": 16.35304558361524, "5": 16.298770211010975, "6": 16.275414489709924}
+      {"1": 16.928910664790433, "2": 15.741057204756014, "3": 16.89777254194921, "4": 16.774176266929544, "5": 17.052394369631475, "6": 16.47928088145946}
      AssetVal:
-      49261
-	总数:1287
+      33719
+	总数:1063
 第15名======
-玩家:双头17多尾 公示期结束:2020-11-24 10:01:04 SSR 50   六星式神 103   签到1310天 收藏:26 ordersn:202011160901616-12-OA2HGXGSL4A6C
-	价格:259900	斗技:2700金币:9649720 体力:24561 勾玉:3405 图鉴:ssr=30/31 sp=11/15
+玩家:小吴的打工仔 公示期结束:2020-11-28 10:41:57 SSR 58   六星式神 79   签到870天 收藏:0 ordersn:202011100001616-28-OPQJGJLJHGKPG
+	价格:250000	斗技:2400金币:3993284 体力:1732 勾玉:3963 图鉴:ssr=31/31 sp=15/15
 	御魂得分:     suitSum:
       crit:
-       {"zhaocai-crit": 86046, "zhennv-crit": 62844, "kuanggu-crit": 42006, "poshi-crit": 56811}
+       {"zhaocai-crit": 29592, "zhennv-crit": 57633, "kuanggu-crit": 71193, "poshi-crit": 71712}
       criDmg:
-       {"poshi-criDmg": 52932, "zhaocai-criDmg": 81472, "kuanggu-criDmg": 17540, "zhennv-criDmg": 79684}
+       {"poshi-criDmg": 54784, "zhaocai-criDmg": 62276, "kuanggu-criDmg": 19064, "zhennv-criDmg": 17944}
       speed:
-       {"zhennv-speed": 78756, "poshi-speed": 58053, "zhaocai-speed": 83835, "kuanggu-speed": 29994}
+       {"zhennv-speed": 55146, "poshi-speed": 69888, "zhaocai-speed": 73107, "kuanggu-speed": 76002}
      subVal:
-      {"_": 132199}
+      {"_": 84382}
      subValSpeical:
-      {"": 1367, "critRateAdditionVal": 66, "speedAdditionVal": 97, "_3": 39700}
+      {"": 870, "critRateAdditionVal": 51, "speedAdditionVal": 82, "_3": 34000}
      speedSum-2:
-      14065.0821199
+      14128.6403225
      speedSum3:
-      157.462121352
+      157.385138091
      subValEffect:
-      {"zhaocai": 971, "poshi": 611, "_4": 8165, "suit0": 5580, "genv": 73, "huang": 206, "kuanggu": 243, "zhennv": 481}
+      {"genv": 98, "poshi": 458, "_4": 6093, "suit0": 3872, "zhaocai": 613, "huang": 120, "kuanggu": 511, "zhennv": 421}
      equipnum:
-      1530
+      1003
      speed:
-      {"1": 16.7165445850309, "2": 16.81130015289379, "3": 16.423529837219917, "4": 17.105810560159384, "5": 16.574056347615304, "6": 16.830879868585164}
+      {"1": 17.115926967160867, "2": 16.098734866811206, "3": 16.99406449033046, "4": 16.66258615426023, "5": 16.587606819140603, "6": 16.926218793693415}
      AssetVal:
-      25334
-	总数:1530
+      6160
+	总数:1003
 第16名======
-玩家:无敌花大名仕 公示期结束:2020-11-09 18:54:39 SSR 42   六星式神 69   签到588天 收藏:46 ordersn:202010312101616-34-QWX2RYXTY93I0
-	价格:280000	斗技:2700金币:9158892 体力:11085 勾玉:57318 图鉴:ssr=31/31 sp=15/15
+玩家:18魂土158速 公示期结束:2020-12-07 03:26:41 SSR 49   六星式神 72   签到1396天 收藏:1 ordersn:202011290201616-12-1EQE42XHQVNIW
+	价格:280000	斗技:2400金币:1895569 体力:19970 勾玉:20628 图鉴:ssr=31/31 sp=13/16
 	御魂得分:     suitSum:
       crit:
-       {"zhaocai-crit": 87414, "zhennv-crit": 60999, "kuanggu-crit": 59316, "poshi-crit": 30492}
+       {"zhaocai-crit": 86724, "zhennv-crit": 58413, "kuanggu-crit": 40395, "poshi-crit": 59952}
       criDmg:
-       {"poshi-criDmg": 72784, "zhaocai-criDmg": 58068, "kuanggu-criDmg": 75028, "zhennv-criDmg": 56216}
+       {"poshi-criDmg": 55732, "zhaocai-criDmg": 37008, "kuanggu-criDmg": 75376, "zhennv-criDmg": 81412}
       speed:
-       {"zhennv-speed": 39828, "poshi-speed": 27690, "zhaocai-speed": 89142, "kuanggu-speed": 30297}
+       {"zhennv-speed": 62280, "poshi-speed": 59637, "zhaocai-speed": 73806, "kuanggu-speed": 74790}
      subVal:
-      {"_": 92953}
+      {"_": 91470}
      subValSpeical:
-      {"": 1004, "critRateAdditionVal": 44, "speedAdditionVal": 94, "_3": 27500}
+      {"": 964, "critRateAdditionVal": 46, "speedAdditionVal": 74, "_3": 28800}
      speedSum-2:
-      14121.40414
+      14110.1122649
      speedSum3:
-      155.510429268
+      157.664234656
      subValEffect:
-      {"zhaocai": 986, "poshi": 335, "_4": 6149, "suit0": 4013, "genv": 119, "huang": 88, "kuanggu": 277, "zhennv": 331}
+      {"zhaocai": 585, "poshi": 529, "_4": 5992, "suit0": 4014, "genv": 0, "huang": 153, "kuanggu": 329, "zhennv": 382}
      equipnum:
-      1142
+      1084
      speed:
-      {"1": 16.59229016055869, "2": 14.296387867971248, "3": 17.0666941497266, "4": 16.641789877514142, "5": 17.01245527764008, "6": 16.900811934898837}
+      {"1": 16.963962299425834, "2": 16.563112007639596, "3": 16.6180540726448, "4": 16.839165773814578, "5": 16.90511996019928, "6": 16.774820542445443}
      AssetVal:
-      72018
-	总数:1142
+      31244
+	总数:1084
 第17名======
-玩家:鹜齐飞 公示期结束:2020-11-21 22:40:30 SSR 90   六星式神 119   签到1327天 收藏:1 ordersn:202011132201616-10-Q6CE2JEKMXF3I
-	价格:299900	斗技:2640金币:1753218 体力:7415 勾玉:8000 图鉴:ssr=31/31 sp=15/15
+玩家:YN`清风徐来 公示期结束:2020-11-22 18:01:01 SSR 68   六星式神 60   签到1334天 收藏:1 ordersn:202011141701616-12-ROB1CGA2NPZXL
+	价格:260000	斗技:2400金币:30101218 体力:20461 勾玉:13048 图鉴:ssr=31/31 sp=15/15
 	御魂得分:     suitSum:
       crit:
-       {"zhaocai-crit": 67863, "zhennv-crit": 59886, "kuanggu-crit": 29538, "poshi-crit": 53544}
+       {"zhaocai-crit": 41025, "zhennv-crit": 57252, "kuanggu-crit": 71505, "poshi-crit": 54234}
       criDmg:
-       {"poshi-criDmg": 37592, "zhaocai-criDmg": 53724, "kuanggu-criDmg": 76484, "zhennv-criDmg": 57024}
+       {"poshi-criDmg": 22208, "zhaocai-criDmg": 39348, "kuanggu-criDmg": 36276, "zhennv-criDmg": 18200}
       speed:
-       {"zhennv-speed": 60537, "poshi-speed": 43797, "zhaocai-speed": 74364, "kuanggu-speed": 43737}
+       {"zhennv-speed": 13854, "poshi-speed": 41685, "zhaocai-speed": 70938, "kuanggu-speed": 13689}
      subVal:
-      {"_": 100517}
+      {"_": 91309}
      subValSpeical:
-      {"": 1127, "critRateAdditionVal": 45, "speedAdditionVal": 68, "_3": 28100}
+      {"": 1054, "critRateAdditionVal": 35, "speedAdditionVal": 59, "_3": 18000}
      speedSum-2:
-      14066.0070791
+      13916.1140438
      speedSum3:
-      156.724420972
+      155.21146841
      subValEffect:
-      {"zhaocai": 759, "poshi": 581, "_4": 6966, "suit0": 4372, "genv": 146, "huang": 169, "kuanggu": 501, "zhennv": 438}
+      {"genv": 89, "poshi": 411, "_4": 5473, "suit0": 3601, "zhaocai": 528, "huang": 208, "kuanggu": 323, "zhennv": 313}
      equipnum:
-      1240
+      1148
      speed:
-      {"1": 16.97071569017521, "2": 16.064350181193923, "3": 16.63396083250414, "4": 16.755130891966633, "5": 16.548026823445696, "6": 16.75223655299277}
+      {"1": 16.684724497872196, "2": 16.050327971942195, "3": 16.45935974160392, "4": 16.528071747748385, "5": 16.002258448570505, "6": 16.486726001892457}
      AssetVal:
-      13460
-	总数:1240
+      33311
+	总数:1148
 第18名======
-玩家:丶人生若只如初见 公示期结束:2020-11-12 22:43:17 SSR 43   六星式神 82   签到619天 收藏:4 ordersn:202011042201616-35-VUCR9Q77BDBQQ
-	价格:190000	斗技:2472金币:7307643 体力:5289 勾玉:52 图鉴:ssr=30/31 sp=15/15
+玩家:18名士多爆资典 公示期结束:2020-12-05 00:34:32 SSR 52   六星式神 78   签到1354天 收藏:2 ordersn:202011270001616-12-4XMMJG2ZOULVZ
+	价格:288800	斗技:2400金币:17029967 体力:11136 勾玉:64683 图鉴:ssr=31/31 sp=15/16
 	御魂得分:     suitSum:
       crit:
-       {"zhaocai-crit": 60057, "zhennv-crit": 27675, "kuanggu-crit": 71265, "poshi-crit": 59472}
+       {"zhaocai-crit": 40542, "zhennv-crit": 58335, "kuanggu-crit": 26820, "poshi-crit": 41196}
       criDmg:
-       {"poshi-criDmg": 75604, "zhaocai-criDmg": 74008, "kuanggu-criDmg": 53300, "zhennv-criDmg": 79416}
+       {"poshi-criDmg": 92836, "zhaocai-criDmg": 17508, "kuanggu-criDmg": 73452, "zhennv-criDmg": 58780}
       speed:
-       {"zhennv-speed": 75141, "poshi-speed": 30162, "zhaocai-speed": 88404, "kuanggu-speed": 70647}
+       {"zhennv-speed": 58665, "poshi-speed": 43368, "zhaocai-speed": 73167, "kuanggu-speed": 42798}
      subVal:
-      {"_": 96036}
+      {"_": 90156}
      subValSpeical:
-      {"": 1016, "critRateAdditionVal": 53, "speedAdditionVal": 92, "_3": 28200}
+      {"": 1121, "critRateAdditionVal": 42, "speedAdditionVal": 53, "_3": 16200}
      speedSum-2:
-      14191.134296
+      13936.9582406
      speedSum3:
-      155.718580909
+      153.357460238
      subValEffect:
-      {"zhaocai": 735, "poshi": 574, "_4": 7451, "suit0": 4963, "genv": 53, "huang": 139, "kuanggu": 450, "zhennv": 537}
+      {"zhaocai": 365, "poshi": 598, "_4": 5448, "suit0": 3400, "genv": 96, "huang": 152, "kuanggu": 322, "zhennv": 515}
      equipnum:
-      1161
+      1216
      speed:
-      {"1": 16.705203643192817, "2": 13.807237948591318, "3": 16.752652263612255, "4": 17.154271750208583, "5": 17.347796019201734, "6": 16.951419284019448}
+      {"1": 16.3964260507445, "2": 13.987877832195647, "3": 16.135726827079015, "4": 16.386425144197847, "5": 16.813294246830253, "6": 16.63771013667526}
      AssetVal:
-      10003
-	总数:1161
+      75927
+	总数:1216
 第19名======
-玩家:牛牛嗯了 公示期结束:2020-11-06 21:51:50 SSR 72   六星式神 85   签到1263天 收藏:3 ordersn:202010161601616-13-KRN3WMFFPEAQW
-	价格:220000	斗技:2447金币:5616879 体力:12125 勾玉:303 图鉴:ssr=30/31 sp=14/15
+玩家:17头成品御魂号 公示期结束:2020-12-03 03:15:19 SSR 33   六星式神 56   签到490天 收藏:1 ordersn:202011250101616-27-ZOZ7RMLOBCAQF
+	价格:280000	斗技:2400金币:9694391 体力:6912 勾玉:14485 图鉴:ssr=31/31 sp=14/15
 	御魂得分:     suitSum:
       crit:
-       {"zhaocai-crit": 61722, "zhennv-crit": 40215, "kuanggu-crit": 67068, "poshi-crit": 59817}
+       {"zhaocai-crit": 41379, "zhennv-crit": 73545, "kuanggu-crit": 43653, "poshi-crit": 57561}
       criDmg:
-       {"poshi-criDmg": 99380, "zhaocai-criDmg": 38532, "kuanggu-criDmg": 0, "zhennv-criDmg": 78676}
+       {"poshi-criDmg": 93888, "zhaocai-criDmg": 41108, "kuanggu-criDmg": 76896, "zhennv-criDmg": 75656}
       speed:
-       {"zhennv-speed": 43260, "poshi-speed": 56721, "zhaocai-speed": 70098, "kuanggu-speed": 57159}
+       {"zhennv-speed": 74820, "poshi-speed": 30561, "zhaocai-speed": 54219, "kuanggu-speed": 27417}
      subVal:
-      {"_": 88236}
+      {"_": 67776}
      subValSpeical:
-      {"": 930, "critRateAdditionVal": 50, "speedAdditionVal": 60, "_3": 28100}
+      {"": 599, "critRateAdditionVal": 51, "speedAdditionVal": 64, "_3": 25900}
      speedSum-2:
-      14000.3410048
+      13988.8268067
      speedSum3:
-      156.394943385
+      156.400588786
      subValEffect:
-      {"zhaocai": 441, "poshi": 468, "_4": 5741, "suit0": 3798, "genv": 104, "huang": 91, "kuanggu": 564, "zhennv": 275}
+      {"zhaocai": 384, "poshi": 346, "_4": 5361, "suit0": 3984, "genv": 0, "huang": 46, "kuanggu": 271, "zhennv": 330}
      equipnum:
-      1040
+      714
      speed:
-      {"1": 16.71893558561566, "2": 16.391533336754375, "3": 16.423570076282616, "4": 16.991396112389094, "5": 16.458801083136347, "6": 16.410707190503345}
+      {"1": 16.47633392039228, "2": 16.51232071903167, "3": 16.466768397888835, "4": 16.430512525132, "5": 16.369852139651925, "6": 17.1448010837527}
      AssetVal:
-      11981
-	总数:1040
+      21172
+	总数:714
 第20名======
-玩家:芋圆没有鱼 公示期结束:2020-11-21 21:39:45 SSR 45   六星式神 52   签到753天 收藏:6 ordersn:202011132101616-29-FY6STVQXPNBBL
-	价格:165000	斗技:2418金币:3606601 体力:22550 勾玉:20398 图鉴:ssr=31/31 sp=15/15
+玩家:郭瑞曲 公示期结束:2020-09-14 22:39:11 SSR 71   六星式神 51   签到1337天 收藏:5 ordersn:202009062001616-13-IONGU64ZXA3PQ
+	价格:250000	斗技:2400金币:389306 体力:16750 勾玉:15560 图鉴:ssr=30/30 sp=12/13
 	御魂得分:     suitSum:
       crit:
-       {"zhaocai-crit": 69774, "zhennv-crit": 12894, "kuanggu-crit": 54792, "poshi-crit": 13440}
+       {"zhaocai-crit": 27480, "zhennv-crit": 41001, "kuanggu-crit": 70188, "poshi-crit": 84996}
       criDmg:
-       {"poshi-criDmg": 74596, "zhaocai-criDmg": 44012, "kuanggu-criDmg": 62024, "zhennv-criDmg": 54596}
+       {"poshi-criDmg": 57468, "zhaocai-criDmg": 59080, "kuanggu-criDmg": 36004, "zhennv-criDmg": 76668}
       speed:
-       {"zhennv-speed": 57123, "poshi-speed": 30183, "zhaocai-speed": 72765, "kuanggu-speed": 43695}
+       {"zhennv-speed": 13896, "poshi-speed": 47109, "zhaocai-speed": 73542, "kuanggu-speed": 43719}
      subVal:
-      {"_": 85288}
+      {"_": 69352}
      subValSpeical:
-      {"": 878, "critRateAdditionVal": 39, "speedAdditionVal": 69, "_3": 18300}
+      {"": 738, "critRateAdditionVal": 44, "speedAdditionVal": 45, "_3": 19300}
      speedSum-2:
-      14036.3576591
+      14002.4446576
      speedSum3:
-      154.45039549
+      156.044935673
      subValEffect:
-      {"genv": 96, "poshi": 195, "_4": 5723, "suit0": 3702, "zhaocai": 653, "huang": 309, "kuanggu": 399, "zhennv": 369}
+      {"zhaocai": 355, "poshi": 458, "_4": 4578, "suit0": 2923, "genv": 12, "huang": 99, "kuanggu": 391, "zhennv": 340}
      equipnum:
-      986
+      827
      speed:
-      {"1": 16.755536734561613, "2": 14.086818899393101, "3": 16.735553715804382, "4": 16.88632496958625, "5": 16.46915624170562, "6": 16.517004929393273}
+      {"1": 16.493419493122975, "2": 16.020489097709728, "3": 16.39025900891032, "4": 16.682198827284143, "5": 16.854878813091943, "6": 16.6036904332866}
      AssetVal:
-      35279
-	总数:986
+      24064
+	总数:827
 第21名======
-玩家:國寶 公示期结束:2020-11-20 17:33:25 SSR 47   六星式神 73   签到1472天 收藏:1 ordersn:202011121701616-17-XIRMBZZWYQJ1V
-	价格:300000	斗技:2400金币:1740826 体力:7609 勾玉:2072 图鉴:ssr=30/31 sp=15/15
-	御魂得分:     suitSum:
-      crit:
-       {"zhaocai-crit": 59625, "zhennv-crit": 71370, "kuanggu-crit": 16689, "poshi-crit": 68874}
-      criDmg:
-       {"poshi-criDmg": 39468, "zhaocai-criDmg": 124296, "kuanggu-criDmg": 62240, "zhennv-criDmg": 58016}
-      speed:
-       {"zhennv-speed": 63585, "poshi-speed": 28047, "zhaocai-speed": 78183, "kuanggu-speed": 15561}
-     subVal:
-      {"_": 102777}
-     subValSpeical:
-      {"": 972, "critRateAdditionVal": 90, "speedAdditionVal": 96, "_3": 34400}
-     speedSum-2:
-      14119.0649964
-     speedSum3:
-      154.902448305
-     subValEffect:
-      {"zhaocai": 943, "poshi": 392, "_4": 7987, "suit0": 5521, "genv": 0, "huang": 146, "kuanggu": 374, "zhennv": 611}
-     equipnum:
-      1158
-     speed:
-      {"1": 16.914664511400318, "2": 13.71179834059549, "3": 16.981260457378337, "4": 16.621582989150436, "5": 16.55548109197547, "6": 17.11766091453573}
-     AssetVal:
-      7616
-	总数:1158
-第22名======
-玩家:神威神威 公示期结束:2020-11-10 11:29:21 SSR 53   六星式神 75   签到1262天 收藏:3 ordersn:202010302301616-13-GBLXQODERNRTX
-	价格:290000	斗技:2400金币:35228441 体力:24247 勾玉:2052 图鉴:ssr=30/31 sp=15/15
-	御魂得分:     suitSum:
-      crit:
-       {"zhaocai-crit": 58341, "zhennv-crit": 43641, "kuanggu-crit": 16308, "poshi-crit": 77793}
-      criDmg:
-       {"poshi-criDmg": 75764, "zhaocai-criDmg": 57684, "kuanggu-criDmg": 18080, "zhennv-criDmg": 58800}
-      speed:
-       {"zhennv-speed": 32889, "poshi-speed": 59202, "zhaocai-speed": 77775, "kuanggu-speed": 42741}
-     subVal:
-      {"_": 98912}
-     subValSpeical:
-      {"": 973, "critRateAdditionVal": 59, "speedAdditionVal": 92, "_3": 36200}
-     speedSum-2:
-      14167.2702474
-     speedSum3:
-      158.214677998
-     subValEffect:
-      {"genv": 177, "poshi": 545, "_4": 7370, "suit0": 5254, "zhaocai": 730, "huang": 213, "kuanggu": 186, "zhennv": 265}
-     equipnum:
-      1124
-     speed:
-      {"1": 17.27641416032022, "2": 16.54197552404205, "3": 16.980295703160508, "4": 16.714365941224337, "5": 16.621317001372475, "6": 17.08030966835789}
-     AssetVal:
-      49403
-	总数:1124
-第23名======
-玩家:黑゛ 公示期结束:2020-11-22 14:13:40 SSR 70   六星式神 88   签到1064天 收藏:5 ordersn:202011141301616-17-XEPIOU9GCI0PR
-	价格:289900	斗技:2400金币:69361286 体力:46188 勾玉:27864 图鉴:ssr=31/31 sp=15/15
-	御魂得分:     suitSum:
-      crit:
-       {"zhaocai-crit": 62979, "zhennv-crit": 69633, "kuanggu-crit": 39762, "poshi-crit": 87669}
-      criDmg:
-       {"poshi-criDmg": 95308, "zhaocai-criDmg": 36872, "kuanggu-criDmg": 18520, "zhennv-criDmg": 96772}
-      speed:
-       {"zhennv-speed": 59151, "poshi-speed": 59538, "zhaocai-speed": 70074, "kuanggu-speed": 55806}
-     subVal:
-      {"_": 108645}
-     subValSpeical:
-      {"": 1139, "critRateAdditionVal": 48, "speedAdditionVal": 77, "_3": 27200}
-     speedSum-2:
-      14083.6031876
-     speedSum3:
-      156.891430387
-     subValEffect:
-      {"zhaocai": 660, "poshi": 742, "_4": 7073, "suit0": 4447, "genv": 34, "huang": 192, "kuanggu": 483, "zhennv": 515}
-     equipnum:
-      1264
-     speed:
-      {"1": 16.90457648448305, "2": 16.055398510997158, "3": 16.27795143515961, "4": 16.96228202398253, "5": 16.919904301268573, "6": 16.771317630777112}
-     AssetVal:
-      120319
-	总数:1264
-第24名======
-玩家:萝卜肉丝 公示期结束:2020-11-20 12:58:31 SSR 92   六星式神 58   签到1052天 收藏:0 ordersn:202011121201616-10-PYXCEIX3HW1OY
-	价格:299900	斗技:2400金币:130122942 体力:26111 勾玉:67799 图鉴:ssr=31/31 sp=15/15
-	御魂得分:     suitSum:
-      crit:
-       {"zhaocai-crit": 55026, "zhennv-crit": 31905, "kuanggu-crit": 43932, "poshi-crit": 43992}
-      criDmg:
-       {"poshi-criDmg": 64372, "zhaocai-criDmg": 59348, "kuanggu-criDmg": 79120, "zhennv-criDmg": 58828}
-      speed:
-       {"zhennv-speed": 59355, "poshi-speed": 29325, "zhaocai-speed": 85938, "kuanggu-speed": 42222}
-     subVal:
-      {"_": 95018}
-     subValSpeical:
-      {"": 1106, "critRateAdditionVal": 54, "speedAdditionVal": 80, "_3": 22700}
-     speedSum-2:
-      14016.644294
-     speedSum3:
-      153.953325684
-     subValEffect:
-      {"zhaocai": 647, "poshi": 333, "_4": 6341, "suit0": 4410, "genv": 103, "huang": 121, "kuanggu": 338, "zhennv": 389}
-     equipnum:
-      1240
-     speed:
-      {"1": 17.260872917729245, "2": 13.7868827436847, "3": 16.058267611753024, "4": 16.461642965134423, "5": 16.61700688459989, "6": 16.768652560819714}
-     AssetVal:
-      210976
-	总数:1240
-第25名======
-玩家:真的就白给 公示期结束:2020-11-20 08:25:01 SSR 40   六星式神 46   签到502天 收藏:0 ordersn:202011120701616-39-UGCSFAKZHFPON
-	价格:300000	斗技:2400金币:13987471 体力:16468 勾玉:15422 图鉴:ssr=31/31 sp=15/15
-	御魂得分:     suitSum:
-      crit:
-       {"zhaocai-crit": 60573, "zhennv-crit": 73164, "kuanggu-crit": 46392, "poshi-crit": 41418}
-      criDmg:
-       {"poshi-criDmg": 82876, "zhaocai-criDmg": 35192, "kuanggu-criDmg": 97404, "zhennv-criDmg": 89364}
-      speed:
-       {"zhennv-speed": 27087, "poshi-speed": 60969, "zhaocai-speed": 41400, "kuanggu-speed": 53379}
-     subVal:
-      {"_": 83137}
-     subValSpeical:
-      {"": 782, "critRateAdditionVal": 64, "speedAdditionVal": 73, "_3": 23300}
-     speedSum-2:
-      14091.7022379
-     speedSum3:
-      154.157887461
-     subValEffect:
-      {"zhaocai": 387, "poshi": 671, "_4": 6252, "suit0": 3678, "genv": 174, "huang": 124, "kuanggu": 640, "zhennv": 578}
-     equipnum:
-      919
-     speed:
-      {"1": 16.793965943007535, "2": 13.240865081208927, "3": 16.933712825890513, "4": 16.73878059322255, "5": 16.648405398857758, "6": 16.80215761849979}
-     AssetVal:
-      37643
-	总数:919
-第26名======
-玩家:古故 公示期结束:2020-10-02 15:47:54 SSR 52   六星式神 70   签到718天 收藏:6 ordersn:202009241501616-28-DYAY8RCS5JKZF
-	价格:200000	斗技:2400金币:11402301 体力:14310 勾玉:40602 图鉴:ssr=30/30 sp=12/15
-	御魂得分:     suitSum:
-      crit:
-       {"zhaocai-crit": 70215, "zhennv-crit": 62841, "kuanggu-crit": 59196, "poshi-crit": 69444}
-      criDmg:
-       {"poshi-criDmg": 97092, "zhaocai-criDmg": 40516, "kuanggu-criDmg": 54080, "zhennv-criDmg": 58156}
-      speed:
-       {"zhennv-speed": 56919, "poshi-speed": 75951, "zhaocai-speed": 62319, "kuanggu-speed": 40374}
-     subVal:
-      {"_": 100606}
-     subValSpeical:
-      {"": 1061, "critRateAdditionVal": 55, "speedAdditionVal": 82, "_3": 27000}
-     speedSum-2:
-      14125.8996917
-     speedSum3:
-      156.904060034
-     subValEffect:
-      {"zhaocai": 645, "poshi": 610, "_4": 6119, "suit0": 3859, "genv": 49, "huang": 128, "kuanggu": 355, "zhennv": 473}
-     equipnum:
-      1198
-     speed:
-      {"1": 17.488662466799205, "2": 15.645063117382566, "3": 16.6813160566186, "4": 16.750802668209726, "5": 16.859043544921136, "6": 16.479172180308808}
-     AssetVal:
-      59159
-	总数:1198
-第27名======
-玩家:憨憨柒丶 公示期结束:2020-11-24 18:15:46 SSR 38   六星式神 46   签到699天 收藏:1 ordersn:202011161701616-33-D3SOKSM5QZBT1
-	价格:168800	斗技:2400金币:22984410 体力:13431 勾玉:31420 图鉴:ssr=31/31 sp=15/15
-	御魂得分:     suitSum:
-      crit:
-       {"zhaocai-crit": 41187, "zhennv-crit": 39870, "kuanggu-crit": 57921, "poshi-crit": 40539}
-      criDmg:
-       {"poshi-criDmg": 64404, "zhaocai-criDmg": 35212, "kuanggu-criDmg": 97680, "zhennv-criDmg": 57920}
-      speed:
-       {"zhennv-speed": 13158, "poshi-speed": 40452, "zhaocai-speed": 70452, "kuanggu-speed": 43497}
-     subVal:
-      {"_": 95329}
-     subValSpeical:
-      {"": 1024, "critRateAdditionVal": 36, "speedAdditionVal": 81, "_3": 21200}
-     speedSum-2:
-      14091.1263881
-     speedSum3:
-      154.698794643
-     subValEffect:
-      {"zhaocai": 486, "poshi": 487, "_4": 6097, "suit0": 4309, "genv": 63, "huang": 48, "kuanggu": 401, "zhennv": 303}
-     equipnum:
-      1141
-     speed:
-      {"1": 16.70097920985708, "2": 13.787530761845268, "3": 16.92984302851182, "4": 17.028448473405412, "5": 16.680069873371217, "6": 16.571923295753365}
-     AssetVal:
-      61119
-	总数:1141
-第28名======
-玩家:停车熄火 公示期结束:2020-11-18 19:57:35 SSR 44   六星式神 82   签到788天 收藏:17 ordersn:202011101901616-31-K3SLJLGRWISPE
-	价格:160000	斗技:2400金币:22245965 体力:16590 勾玉:8996 图鉴:ssr=31/31 sp=15/15
-	御魂得分:     suitSum:
-      crit:
-       {"zhaocai-crit": 45876, "zhennv-crit": 45345, "kuanggu-crit": 73734, "poshi-crit": 44997}
-      criDmg:
-       {"poshi-criDmg": 38216, "zhaocai-criDmg": 35236, "kuanggu-criDmg": 38000, "zhennv-criDmg": 73156}
-      speed:
-       {"zhennv-speed": 31359, "poshi-speed": 41418, "zhaocai-speed": 85215, "kuanggu-speed": 59979}
-     subVal:
-      {"_": 100055}
-     subValSpeical:
-      {"": 1146, "critRateAdditionVal": 42, "speedAdditionVal": 71, "_3": 19400}
-     speedSum-2:
-      14064.241623
-     speedSum3:
-      154.049078421
-     subValEffect:
-      {"zhaocai": 605, "poshi": 369, "_4": 5991, "suit0": 3996, "genv": 62, "huang": 120, "kuanggu": 477, "zhennv": 362}
-     equipnum:
-      1259
-     speed:
-      {"1": 16.776473874846893, "2": 13.406662191024942, "3": 16.637824893823403, "4": 17.07146041105505, "5": 16.438742304233138, "6": 16.717914746318485}
-     AssetVal:
-      39536
-	总数:1259
-第29名======
-玩家:孤独的初霜 公示期结束:2020-11-13 12:56:11 SSR 56   六星式神 46   签到723天 收藏:9 ordersn:202011051201616-33-QQTIYTVUEGYOF
-	价格:268900	斗技:2400金币:12530063 体力:27999 勾玉:126252 图鉴:ssr=31/31 sp=15/15
-	御魂得分:     suitSum:
-      crit:
-       {"zhaocai-crit": 26877, "zhennv-crit": 13737, "kuanggu-crit": 27498, "poshi-crit": 59106}
-      criDmg:
-       {"poshi-criDmg": 17780, "zhaocai-criDmg": 61272, "kuanggu-criDmg": 98156, "zhennv-criDmg": 39224}
-      speed:
-       {"zhennv-speed": 13164, "poshi-speed": 59550, "zhaocai-speed": 54429, "kuanggu-speed": 71085}
-     subVal:
-      {"_": 76420}
-     subValSpeical:
-      {"": 795, "critRateAdditionVal": 41, "speedAdditionVal": 67, "_3": 19700}
-     speedSum-2:
-      14130.0423285
-     speedSum3:
-      154.455630752
-     subValEffect:
-      {"genv": 74, "poshi": 584, "_4": 5915, "suit0": 4028, "zhaocai": 366, "huang": 211, "kuanggu": 507, "zhennv": 145}
-     equipnum:
-      903
-     speed:
-      {"1": 17.122295678254037, "2": 13.155207466453007, "3": 16.82964877655874, "4": 16.906072073699352, "5": 16.60895158178997, "6": 16.833455175184973}
-     AssetVal:
-      152781
-	总数:903
-第30名======
-玩家:拼上剑与心 公示期结束:2020-11-14 23:37:02 SSR 93   六星式神 81   签到1259天 收藏:15 ordersn:202011062301616-12-FAUDHOIEPUVPR
-	价格:160000	斗技:2400金币:3935266 体力:32732 勾玉:1182 图鉴:ssr=30/31 sp=15/15
-	御魂得分:     suitSum:
-      crit:
-       {"zhaocai-crit": 16392, "zhennv-crit": 46446, "kuanggu-crit": 30078, "poshi-crit": 59532}
-      criDmg:
-       {"poshi-criDmg": 57688, "zhaocai-criDmg": 17780, "kuanggu-criDmg": 21580, "zhennv-criDmg": 52280}
-      speed:
-       {"zhennv-speed": 28389, "poshi-speed": 30189, "zhaocai-speed": 54087, "kuanggu-speed": 45387}
-     subVal:
-      {"_": 90073}
-     subValSpeical:
-      {"": 1028, "critRateAdditionVal": 61, "speedAdditionVal": 57, "_3": 20800}
-     speedSum-2:
-      14014.377632
-     speedSum3:
-      153.955925692
-     subValEffect:
-      {"zhaocai": 331, "poshi": 418, "_4": 5884, "suit0": 4417, "genv": 87, "huang": 122, "kuanggu": 180, "zhennv": 329}
-     equipnum:
-      1146
-     speed:
-      {"1": 16.35007417765469, "2": 13.812149371907608, "3": 16.416635124406508, "4": 16.615700510102894, "5": 16.7201384593133, "6": 17.041228048202484}
-     AssetVal:
-      21483
-	总数:1146
-第31名======
-玩家:招17双头18S 公示期结束:2020-11-19 15:58:59 SSR 48   六星式神 58   签到676天 收藏:68 ordersn:202011111401616-34-5LYOOTB2VJYBA
-	价格:300000	斗技:2400金币:11205656 体力:12149 勾玉:10719 图鉴:ssr=31/31 sp=13/15
-	御魂得分:     suitSum:
-      crit:
-       {"zhaocai-crit": 59400, "zhennv-crit": 40098, "kuanggu-crit": 15834, "poshi-crit": 27234}
-      criDmg:
-       {"poshi-criDmg": 74924, "zhaocai-criDmg": 54496, "kuanggu-criDmg": 58296, "zhennv-criDmg": 40336}
-      speed:
-       {"zhennv-speed": 40296, "poshi-speed": 40830, "zhaocai-speed": 74376, "kuanggu-speed": 30402}
-     subVal:
-      {"_": 86913}
-     subValSpeical:
-      {"": 915, "critRateAdditionVal": 46, "speedAdditionVal": 72, "_3": 31000}
-     speedSum-2:
-      14108.453425
-     speedSum3:
-      157.924454173
-     subValEffect:
-      {"zhaocai": 796, "poshi": 252, "_4": 5869, "suit0": 4092, "genv": 126, "huang": 115, "kuanggu": 225, "zhennv": 263}
-     equipnum:
-      1033
-     speed:
-      {"1": 16.713423238536997, "2": 16.83991992279642, "3": 17.028281736995027, "4": 16.924667454094145, "5": 16.673634158741905, "6": 16.744527661598976}
-     AssetVal:
-      27998
-	总数:1033
-第32名======
-玩家:少年思无邪 公示期结束:2020-11-21 22:50:09 SSR 50   六星式神 54   签到1011天 收藏:0 ordersn:202011132201616-10-J3JVDBZS06BDF
-	价格:150000	斗技:2224金币:10463760 体力:26801 勾玉:2184 图鉴:ssr=28/31 sp=14/15
-	御魂得分:     suitSum:
-      crit:
-       {"zhaocai-crit": 56394, "zhennv-crit": 62319, "kuanggu-crit": 86925, "poshi-crit": 40509}
-      criDmg:
-       {"poshi-criDmg": 98120, "zhaocai-criDmg": 56308, "kuanggu-criDmg": 53324, "zhennv-criDmg": 60776}
-      speed:
-       {"zhennv-speed": 64482, "poshi-speed": 54960, "zhaocai-speed": 66807, "kuanggu-speed": 58365}
-     subVal:
-      {"_": 82666}
-     subValSpeical:
-      {"": 790, "critRateAdditionVal": 57, "speedAdditionVal": 84, "_3": 30000}
-     speedSum-2:
-      14022.2102501
-     speedSum3:
-      157.119723384
-     subValEffect:
-      {"zhaocai": 384, "poshi": 399, "_4": 6272, "suit0": 4329, "genv": 124, "huang": 106, "kuanggu": 574, "zhennv": 356}
-     equipnum:
-      931
-     speed:
-      {"1": 16.74959029528229, "2": 16.89762088323559, "3": 16.65141333870056, "4": 16.558522650202327, "5": 16.82256705008963, "6": 16.440009166912688}
-     AssetVal:
-      26047
-	总数:931
-第33名======
-玩家:你真是个小机灵鬼 公示期结束:2020-11-12 18:38:10 SSR 52   六星式神 83   签到1232天 收藏:7 ordersn:202011041801616-12-BLRAYWUMY1HPC
-	价格:279900	斗技:2210金币:353 体力:4347 勾玉:91 图鉴:ssr=30/31 sp=15/15
-	御魂得分:     suitSum:
-      crit:
-       {"zhaocai-crit": 27117, "zhennv-crit": 75201, "kuanggu-crit": 43959, "poshi-crit": 72273}
-      criDmg:
-       {"poshi-criDmg": 76320, "zhaocai-criDmg": 95652, "kuanggu-criDmg": 36200, "zhennv-criDmg": 61648}
-      speed:
-       {"zhennv-speed": 89478, "poshi-speed": 90438, "zhaocai-speed": 70818, "kuanggu-speed": 45990}
-     subVal:
-      {"_": 93407}
-     subValSpeical:
-      {"": 867, "critRateAdditionVal": 48, "speedAdditionVal": 97, "_3": 37400}
-     speedSum-2:
-      14030.887743
-     speedSum3:
-      157.237905258
-     subValEffect:
-      {"genv": 76, "poshi": 731, "_4": 6954, "suit0": 4374, "zhaocai": 653, "huang": 154, "kuanggu": 322, "zhennv": 644}
-     equipnum:
-      1012
-     speed:
-      {"1": 16.691677912924902, "2": 16.929027828740374, "3": 17.047408335030966, "4": 16.633328632168865, "5": 16.47624606057416, "6": 16.460216488884296}
-     AssetVal:
-      2264
-	总数:1012
-第34名======
-玩家:只是个混子呀 公示期结束:2020-11-24 08:37:04 SSR 52   六星式神 60   签到484天 收藏:8 ordersn:202011160801616-38-9JO0QYVFO4JYW
-	价格:299900	斗技:2207金币:26113308 体力:15418 勾玉:51366 图鉴:ssr=31/31 sp=15/15
-	御魂得分:     suitSum:
-      crit:
-       {"zhaocai-crit": 27045, "zhennv-crit": 29595, "kuanggu-crit": 85590, "poshi-crit": 87189}
-      criDmg:
-       {"poshi-criDmg": 54008, "zhaocai-criDmg": 40920, "kuanggu-criDmg": 58132, "zhennv-criDmg": 60020}
-      speed:
-       {"zhennv-speed": 67644, "poshi-speed": 42867, "zhaocai-speed": 59310, "kuanggu-speed": 46017}
-     subVal:
-      {"_": 94039}
-     subValSpeical:
-      {"": 963, "critRateAdditionVal": 37, "speedAdditionVal": 59, "_3": 19600}
-     speedSum-2:
-      14117.0172528
-     speedSum3:
-      154.776832095
-     subValEffect:
-      {"genv": 115, "poshi": 399, "_4": 5801, "suit0": 3859, "zhaocai": 417, "huang": 183, "kuanggu": 483, "zhennv": 345}
-     equipnum:
-      1059
-     speed:
-      {"1": 16.93707207443963, "2": 13.60665956653908, "3": 16.697217377749258, "4": 17.067211946878068, "5": 16.664047719671657, "6": 16.804623409366588}
-     AssetVal:
-      85188
-	总数:1059
-第35名======
-玩家:剑哥 公示期结束:2020-11-17 11:01:17 SSR 47   六星式神 58   签到726天 收藏:1 ordersn:202011061001616-32-MSU5TKPCVIGTW
-	价格:288800	斗技:2200金币:6398516 体力:13395 勾玉:27305 图鉴:ssr=31/31 sp=15/15
-	御魂得分:     suitSum:
-      crit:
-       {"zhaocai-crit": 73128, "zhennv-crit": 61875, "kuanggu-crit": 61242, "poshi-crit": 39618}
-      criDmg:
-       {"poshi-criDmg": 39380, "zhaocai-criDmg": 38976, "kuanggu-criDmg": 62128, "zhennv-criDmg": 0}
-      speed:
-       {"zhennv-speed": 45066, "poshi-speed": 66306, "zhaocai-speed": 63096, "kuanggu-speed": 55008}
-     subVal:
-      {"_": 95882}
-     subValSpeical:
-      {"": 999, "critRateAdditionVal": 49, "speedAdditionVal": 87, "_3": 30300}
-     speedSum-2:
-      14194.9908685
-     speedSum3:
-      157.560803315
-     subValEffect:
-      {"zhaocai": 835, "poshi": 449, "_4": 7325, "suit0": 4783, "genv": 99, "huang": 237, "kuanggu": 498, "zhennv": 424}
-     equipnum:
-      1135
-     speed:
-      {"1": 17.383327652506292, "2": 15.61089462988412, "3": 17.147464109613374, "4": 16.377988718399166, "5": 16.826460214230938, "6": 17.214667990622186}
-     AssetVal:
-      40400
-	总数:1135
-第36名======
-玩家:云尊焱光 公示期结束:2020-11-05 20:31:08 SSR 50   六星式神 54   签到765天 收藏:32 ordersn:202010270101616-31-HXGQJBFOZ1V5C
-	价格:229900	斗技:2200金币:1348010 体力:7956 勾玉:52020 图鉴:ssr=31/31 sp=15/15
+玩家:云尊焱光 公示期结束:2020-11-05 20:31:08 SSR 50   六星式神 54   签到765天 收藏:36 ordersn:202010270101616-31-HXGQJBFOZ1V5C
+	价格:219900	斗技:2200金币:1348010 体力:7956 勾玉:52020 图鉴:ssr=31/31 sp=15/15
 	御魂得分:     suitSum:
       crit:
        {"zhaocai-crit": 82920, "zhennv-crit": 91578, "kuanggu-crit": 81957, "poshi-crit": 56904}
@@ -969,199 +564,37 @@
      speed:
       {"1": 16.410574876439092, "2": 13.90456866741936, "3": 16.933566507350523, "4": 17.01429624902569, "5": 16.783921149215253, "6": 16.858667680552582}
      AssetVal:
-      57346
+      56447
 	总数:1074
-第37名======
-玩家:空蓝 公示期结束:2020-11-12 01:10:13 SSR 76   六星式神 65   签到682天 收藏:1 ordersn:202011040001616-34-GKXMV0C7XZUGG
-	价格:150000	斗技:2200金币:15037140 体力:22536 勾玉:1508 图鉴:ssr=30/31 sp=14/15
+第22名======
+玩家:阿托潘 公示期结束:2020-12-06 14:03:44 SSR 50   六星式神 70   签到930天 收藏:3 ordersn:202011281301616-13-F3UEYCJ1XDSNL
+	价格:220000	斗技:2200金币:26830774 体力:14361 勾玉:1659 图鉴:ssr=31/31 sp=16/16
 	御魂得分:     suitSum:
       crit:
-       {"zhaocai-crit": 71085, "zhennv-crit": 43989, "kuanggu-crit": 56022, "poshi-crit": 57681}
+       {"zhaocai-crit": 88428, "zhennv-crit": 55242, "kuanggu-crit": 77097, "poshi-crit": 58116}
       criDmg:
-       {"poshi-criDmg": 62684, "zhaocai-criDmg": 120940, "kuanggu-criDmg": 39784, "zhennv-criDmg": 57336}
+       {"poshi-criDmg": 93984, "zhaocai-criDmg": 35760, "kuanggu-criDmg": 39788, "zhennv-criDmg": 35496}
       speed:
-       {"zhennv-speed": 70077, "poshi-speed": 42522, "zhaocai-speed": 71769, "kuanggu-speed": 57087}
+       {"zhennv-speed": 0, "poshi-speed": 64572, "zhaocai-speed": 87597, "kuanggu-speed": 43248}
      subVal:
-      {"_": 111118}
+      {"_": 91806}
      subValSpeical:
-      {"": 1160, "critRateAdditionVal": 70, "speedAdditionVal": 77, "_3": 25800}
+      {"": 940, "critRateAdditionVal": 51, "speedAdditionVal": 81, "_3": 30200}
      speedSum-2:
-      14112.5405194
+      14086.0799161
      speedSum3:
-      154.915700871
+      156.674592458
      subValEffect:
-      {"zhaocai": 761, "poshi": 438, "_4": 7053, "suit0": 4659, "genv": 75, "huang": 76, "kuanggu": 453, "zhennv": 591}
+      {"zhaocai": 604, "poshi": 657, "_4": 6356, "suit0": 4065, "genv": 77, "huang": 134, "kuanggu": 399, "zhennv": 420}
      equipnum:
-      1307
+      1072
      speed:
-      {"1": 16.802879241672393, "2": 13.790295677042046, "3": 16.91217846233931, "4": 16.449150846933257, "5": 16.751669970915458, "6": 17.209526671807485}
+      {"1": 16.73593075489348, "2": 15.813793296670365, "3": 16.73118771687021, "4": 16.989984213159126, "5": 17.055370788834882, "6": 16.348325687513668}
      AssetVal:
-      27813
-	总数:1307
-第38名======
-玩家:森林树草 公示期结束:2020-10-18 04:32:33 SSR 88   六星式神 87   签到814天 收藏:4 ordersn:202010100401616-28-G9M0XDD5AZFUH
-	价格:250000	斗技:2200金币:14745946 体力:7584 勾玉:4 图鉴:ssr=29/30 sp=13/15
-	御魂得分:     suitSum:
-      crit:
-       {"zhaocai-crit": 56820, "zhennv-crit": 62562, "kuanggu-crit": 62343, "poshi-crit": 91320}
-      criDmg:
-       {"poshi-criDmg": 57368, "zhaocai-criDmg": 58204, "kuanggu-criDmg": 79052, "zhennv-criDmg": 53448}
-      speed:
-       {"zhennv-speed": 57771, "poshi-speed": 59667, "zhaocai-speed": 76593, "kuanggu-speed": 62223}
-     subVal:
-      {"_": 111506}
-     subValSpeical:
-      {"": 1241, "critRateAdditionVal": 52, "speedAdditionVal": 74, "_3": 27900}
-     speedSum-2:
-      14021.7552636
-     speedSum3:
-      156.345415623
-     subValEffect:
-      {"zhaocai": 716, "poshi": 853, "_4": 6988, "suit0": 4309, "genv": 90, "huang": 145, "kuanggu": 446, "zhennv": 429}
-     equipnum:
-      1367
-     speed:
-      {"1": 16.60913425115656, "2": 16.127862987055728, "3": 16.872553125447595, "4": 16.964253921909535, "5": 16.60763124384357, "6": 16.16398009338909}
-     AssetVal:
-      18541
-	总数:1367
-第39名======
-玩家:双头多氪金皮全图 公示期结束:2020-11-20 22:30:55 SSR 52   六星式神 84   签到1446天 收藏:47 ordersn:202011122101616-12-BQH6TEU9INE83
-	价格:280000	斗技:2200金币:24918119 体力:11024 勾玉:8437 图鉴:ssr=31/31 sp=15/15
-	御魂得分:     suitSum:
-      crit:
-       {"zhaocai-crit": 26940, "zhennv-crit": 42855, "kuanggu-crit": 53664, "poshi-crit": 59817}
-      criDmg:
-       {"poshi-criDmg": 56640, "zhaocai-criDmg": 59328, "kuanggu-criDmg": 0, "zhennv-criDmg": 82892}
-      speed:
-       {"zhennv-speed": 75873, "poshi-speed": 59790, "zhaocai-speed": 73482, "kuanggu-speed": 42804}
-     subVal:
-      {"_": 92035}
-     subValSpeical:
-      {"": 992, "critRateAdditionVal": 46, "speedAdditionVal": 90, "_3": 29700}
-     speedSum-2:
-      14037.8716177
-     speedSum3:
-      156.948694962
-     subValEffect:
-      {"genv": 88, "poshi": 462, "_4": 6539, "suit0": 4745, "zhaocai": 391, "huang": 92, "kuanggu": 266, "zhennv": 495}
-     equipnum:
-      1128
-     speed:
-      {"1": 16.93081729979975, "2": 16.569978784836742, "3": 16.462329339329557, "4": 16.38314021743723, "5": 16.822795040407275, "6": 16.77963427978609}
-     AssetVal:
-      38867
-	总数:1128
-第40名======
-玩家:眼里有星 公示期结束:2020-11-23 23:30:43 SSR 58   六星式神 76   签到996天 收藏:67 ordersn:202011152301616-13-MZKZXDRZIIZNI
-	价格:188800	斗技:2200金币:1376016 体力:19176 勾玉:13421 图鉴:ssr=31/31 sp=14/15
-	御魂得分:     suitSum:
-      crit:
-       {"zhaocai-crit": 46044, "zhennv-crit": 41901, "kuanggu-crit": 71046, "poshi-crit": 73023}
-      criDmg:
-       {"poshi-criDmg": 80788, "zhaocai-criDmg": 79864, "kuanggu-criDmg": 72448, "zhennv-criDmg": 72388}
-      speed:
-       {"zhennv-speed": 43251, "poshi-speed": 43566, "zhaocai-speed": 69369, "kuanggu-speed": 29412}
-     subVal:
-      {"_": 102336}
-     subValSpeical:
-      {"": 1180, "critRateAdditionVal": 40, "speedAdditionVal": 49, "_3": 15000}
-     speedSum-2:
-      13811.0698705
-     speedSum3:
-      152.438582823
-     subValEffect:
-      {"zhaocai": 508, "poshi": 595, "_4": 6501, "suit0": 4013, "genv": 140, "huang": 269, "kuanggu": 541, "zhennv": 435}
-     equipnum:
-      1269
-     speed:
-      {"1": 16.335728539688297, "2": 14.32788411757808, "3": 15.892746019911721, "4": 16.38848571309669, "5": 16.680404059813483, "6": 15.81333437265191}
-     AssetVal:
-      24385
-	总数:1269
-第41名======
-玩家:七月与一 公示期结束:2020-11-23 11:56:33 SSR 75   六星式神 71   签到783天 收藏:0 ordersn:202011151101616-33-I6AJBWMNA48KL
-	价格:205000	斗技:2200金币:1771013 体力:11335 勾玉:59 图鉴:ssr=31/31 sp=15/15
-	御魂得分:     suitSum:
-      crit:
-       {"zhaocai-crit": 74517, "zhennv-crit": 88008, "kuanggu-crit": 56727, "poshi-crit": 86562}
-      criDmg:
-       {"poshi-criDmg": 118512, "zhaocai-criDmg": 74816, "kuanggu-criDmg": 55564, "zhennv-criDmg": 39932}
-      speed:
-       {"zhennv-speed": 16431, "poshi-speed": 40641, "zhaocai-speed": 43887, "kuanggu-speed": 41217}
-     subVal:
-      {"_": 103515}
-     subValSpeical:
-      {"": 1179, "critRateAdditionVal": 58, "speedAdditionVal": 59, "_3": 21300}
-     speedSum-2:
-      14033.2930857
-     speedSum3:
-      154.399852503
-     subValEffect:
-      {"zhaocai": 632, "poshi": 474, "_4": 6501, "suit0": 4214, "genv": 216, "huang": 170, "kuanggu": 380, "zhennv": 415}
-     equipnum:
-      1296
-     speed:
-      {"1": 16.657987717016326, "2": 14.066921646334844, "3": 16.871082889707345, "4": 16.848861960923443, "5": 16.43112337596004, "6": 16.52387491313887}
-     AssetVal:
-      7497
-	总数:1296
-第42名======
-玩家:清淡且瓜稀 公示期结束:2020-11-17 11:54:31 SSR 66   六星式神 64   签到743天 收藏:10 ordersn:202011091101616-33-53PSB5RK5DCNZ
-	价格:245000	斗技:2200金币:20860878 体力:25655 勾玉:55506 图鉴:ssr=31/31 sp=15/15
-	御魂得分:     suitSum:
-      crit:
-       {"zhaocai-crit": 29688, "zhennv-crit": 57333, "kuanggu-crit": 57162, "poshi-crit": 73044}
-      criDmg:
-       {"poshi-criDmg": 57432, "zhaocai-criDmg": 55964, "kuanggu-criDmg": 61504, "zhennv-criDmg": 75264}
-      speed:
-       {"zhennv-speed": 43254, "poshi-speed": 40764, "zhaocai-speed": 76191, "kuanggu-speed": 27159}
-     subVal:
-      {"_": 110304}
-     subValSpeical:
-      {"": 1300, "critRateAdditionVal": 40, "speedAdditionVal": 49, "_3": 18700}
-     speedSum-2:
-      13970.8298256
-     speedSum3:
-      155.787576253
-     subValEffect:
-      {"genv": 77, "poshi": 443, "_4": 6039, "suit0": 3589, "zhaocai": 630, "huang": 131, "kuanggu": 486, "zhennv": 683}
-     equipnum:
-      1389
-     speed:
-      {"1": 16.30893757847827, "2": 16.07927799765816, "3": 17.093295931644924, "4": 16.520075316079772, "5": 16.305502550372445, "6": 16.480486878934908}
-     AssetVal:
-      89193
-	总数:1389
-第43名======
-玩家:笼中的宠儿 公示期结束:2020-11-24 02:02:33 SSR 70   六星式神 95   签到1264天 收藏:105 ordersn:202011160101616-13-TOTPRHMA2SQ88
-	价格:288800	斗技:2200金币:5682885 体力:804 勾玉:4430 图鉴:ssr=31/31 sp=13/15
-	御魂得分:     suitSum:
-      crit:
-       {"zhaocai-crit": 73467, "zhennv-crit": 72303, "kuanggu-crit": 29817, "poshi-crit": 82509}
-      criDmg:
-       {"poshi-criDmg": 74800, "zhaocai-criDmg": 61364, "kuanggu-criDmg": 18568, "zhennv-criDmg": 43688}
-      speed:
-       {"zhennv-speed": 40986, "poshi-speed": 28911, "zhaocai-speed": 76950, "kuanggu-speed": 42627}
-     subVal:
-      {"_": 99304}
-     subValSpeical:
-      {"": 1255, "critRateAdditionVal": 41, "speedAdditionVal": 76, "_3": 24300}
-     speedSum-2:
-      14084.5192949
-     speedSum3:
-      156.821768369
-     subValEffect:
-      {"genv": 34, "poshi": 499, "_4": 5827, "suit0": 3848, "zhaocai": 624, "huang": 165, "kuanggu": 201, "zhennv": 456}
-     equipnum:
-      1372
-     speed:
-      {"1": 16.914393348249945, "2": 15.9765754199585, "3": 16.997810509396817, "4": 16.777332884471917, "5": 16.485014540526866, "6": 16.67064166611606}
-     AssetVal:
-      10514
-	总数:1372
-第44名======
-玩家:平安京留级生 公示期结束:2020-10-03 06:42:09 SSR 34   六星式神 61   签到620天 收藏:4 ordersn:202009250601616-33-VC3ISTELWZBXD
+      17782
+	总数:1072
+第23名======
+玩家:平安京留级生 公示期结束:2020-10-03 06:42:09 SSR 34   六星式神 61   签到620天 收藏:5 ordersn:202009250601616-33-VC3ISTELWZBXD
 	价格:280000	斗技:2200金币:28578310 体力:33484 勾玉:3869 图鉴:ssr=30/30 sp=14/15
 	御魂得分:     suitSum:
       crit:
@@ -1185,65 +618,254 @@
      speed:
       {"1": 17.01719054069028, "2": 15.907442315275492, "3": 16.56059532422044, "4": 16.843982293238287, "5": 17.001750311642528, "6": 16.923868579915492}
      AssetVal:
-      49189
+      30137
 	总数:935
-第45名======
-玩家:是意中人吖 公示期结束:2020-11-24 09:48:36 SSR 81   六星式神 110   签到1498天 收藏:55 ordersn:202011160901616-2-ZHRMYYN1ADYJHS
-	价格:300000	斗技:2056金币:23545648 体力:18426 勾玉:16958 图鉴:ssr=31/31 sp=15/15
+第24名======
+玩家:好心情ぉ 公示期结束:2020-12-04 12:35:32 SSR 49   六星式神 97   签到1176天 收藏:6 ordersn:202011261201616-8-N3EMJOKMFVXCPT
+	价格:250000	斗技:2200金币:7235896 体力:4690 勾玉:252 图鉴:ssr=31/31 sp=16/16
 	御魂得分:     suitSum:
       crit:
-       {"zhaocai-crit": 56694, "zhennv-crit": 73089, "kuanggu-crit": 63087, "poshi-crit": 73428}
+       {"zhaocai-crit": 59889, "zhennv-crit": 40233, "kuanggu-crit": 82074, "poshi-crit": 45801}
       criDmg:
-       {"poshi-criDmg": 93956, "zhaocai-criDmg": 116304, "kuanggu-criDmg": 61116, "zhennv-criDmg": 101432}
+       {"poshi-criDmg": 85524, "zhaocai-criDmg": 17940, "kuanggu-criDmg": 88464, "zhennv-criDmg": 53684}
       speed:
-       {"zhennv-speed": 60237, "poshi-speed": 47088, "zhaocai-speed": 92772, "kuanggu-speed": 54138}
+       {"zhennv-speed": 33765, "poshi-speed": 60231, "zhaocai-speed": 60033, "kuanggu-speed": 29259}
      subVal:
-      {"_": 173316}
+      {"_": 88330}
      subValSpeical:
-      {"": 1999, "critRateAdditionVal": 75, "speedAdditionVal": 84, "_3": 33100}
+      {"": 985, "critRateAdditionVal": 48, "speedAdditionVal": 67, "_3": 22100}
      speedSum-2:
-      14204.5129642
+      14198.4822239
      speedSum3:
-      158.223236745
+      155.120947957
      subValEffect:
-      {"zhaocai": 1055, "poshi": 718, "_4": 10570, "suit0": 7040, "genv": 151, "huang": 310, "kuanggu": 632, "zhennv": 664}
+      {"zhaocai": 626, "poshi": 432, "_4": 5402, "suit0": 3380, "genv": 61, "huang": 85, "kuanggu": 429, "zhennv": 389}
      equipnum:
-      2158
+      1100
      speed:
-      {"1": 16.768786825387817, "2": 16.178107102553394, "3": 17.027952963393286, "4": 16.935989721332795, "5": 17.182298532218567, "6": 17.130101600004025}
+      {"1": 16.76295031913635, "2": 13.136125717730089, "3": 17.045805565186786, "4": 17.184294237638603, "5": 16.678778961015414, "6": 17.31299315613885}
      AssetVal:
-      49716
-	总数:2158
-第46名======
-玩家:日月光华 公示期结束:2020-11-24 12:08:02 SSR 59   六星式神 112   签到1425天 收藏:2 ordersn:202010292101616-12-XJNMPZEMJA2IG
-	价格:288800	斗技:2051金币:3478086 体力:2131 勾玉:2494 图鉴:ssr=31/31 sp=15/15
+      5008
+	总数:1100
+第25名======
+玩家:隐藏的远行者 公示期结束:2020-11-26 02:49:34 SSR 45   六星式神 44   签到821天 收藏:3 ordersn:202011180201616-10-XKEU9XOJXQX88
+	价格:300000	斗技:2200金币:130060438 体力:50083 勾玉:131477 图鉴:ssr=31/31 sp=15/15
 	御魂得分:     suitSum:
       crit:
-       {"zhaocai-crit": 56772, "zhennv-crit": 72321, "kuanggu-crit": 54300, "poshi-crit": 44415}
+       {"zhaocai-crit": 0, "zhennv-crit": 30276, "kuanggu-crit": 26346, "poshi-crit": 44523}
       criDmg:
-       {"poshi-criDmg": 36376, "zhaocai-criDmg": 18956, "kuanggu-criDmg": 42024, "zhennv-criDmg": 94380}
+       {"poshi-criDmg": 37856, "zhaocai-criDmg": 35560, "kuanggu-criDmg": 18068, "zhennv-criDmg": 42692}
       speed:
-       {"zhennv-speed": 56112, "poshi-speed": 62859, "zhaocai-speed": 56085, "kuanggu-speed": 70002}
+       {"zhennv-speed": 57102, "poshi-speed": 43647, "zhaocai-speed": 46086, "kuanggu-speed": 44115}
      subVal:
-      {"_": 96474}
+      {"_": 84209}
      subValSpeical:
-      {"": 1179, "critRateAdditionVal": 50, "speedAdditionVal": 58, "_3": 18100}
+      {"": 949, "critRateAdditionVal": 30, "speedAdditionVal": 79, "_3": 24400}
      speedSum-2:
-      13985.4745835
+      14083.8557185
      speedSum3:
-      150.889448713
+      156.842555635
      subValEffect:
-      {"zhaocai": 384, "poshi": 349, "_4": 5811, "suit0": 4020, "genv": 53, "huang": 32, "kuanggu": 494, "zhennv": 479}
+      {"genv": 162, "poshi": 280, "_4": 5213, "suit0": 3467, "zhaocai": 265, "huang": 143, "kuanggu": 492, "zhennv": 404}
      equipnum:
-      1287
+      1058
      speed:
-      {"1": 16.691930289345073, "2": 11.034702877788044, "3": 16.232833929564727, "4": 16.156692825969976, "5": 16.86939120854355, "6": 16.903897581426975}
+      {"1": 16.66776700595437, "2": 16.003998449874025, "3": 16.75109518496593, "4": 16.74260184922409, "5": 16.850792263531016, "6": 16.826300881114058}
      AssetVal:
-      7037
-	总数:1287
-第47名======
-玩家:宫阙残梦 公示期结束:2020-11-04 21:00:24 SSR 53   六星式神 85   签到1075天 收藏:6 ordersn:202010272001616-13-Z2GZJMIRTBPTT
-	价格:289800	斗技:2012金币:4073262 体力:10134 勾玉:16237 图鉴:ssr=30/31 sp=15/15
+      199871
+	总数:1058
+第26名======
+玩家:柠檬汁` 公示期结束:2020-12-06 16:40:31 SSR 63   六星式神 63   签到1295天 收藏:1 ordersn:202011281601616-13-E8E65HXHR1QC6
+	价格:243300	斗技:2200金币:100798736 体力:27669 勾玉:49905 图鉴:ssr=31/31 sp=14/16
+	御魂得分:     suitSum:
+      crit:
+       {"zhaocai-crit": 47079, "zhennv-crit": 44898, "kuanggu-crit": 42957, "poshi-crit": 40998}
+      criDmg:
+       {"poshi-criDmg": 35548, "zhaocai-criDmg": 76252, "kuanggu-criDmg": 17576, "zhennv-criDmg": 20812}
+      speed:
+       {"zhennv-speed": 41316, "poshi-speed": 44346, "zhaocai-speed": 68730, "kuanggu-speed": 27024}
+     subVal:
+      {"_": 62836}
+     subValSpeical:
+      {"": 673, "critRateAdditionVal": 45, "speedAdditionVal": 57, "_3": 21800}
+     speedSum-2:
+      14047.6076464
+     speedSum3:
+      156.76081963
+     subValEffect:
+      {"zhaocai": 415, "poshi": 356, "_4": 4928, "suit0": 3222, "genv": 116, "huang": 138, "kuanggu": 216, "zhennv": 465}
+     equipnum:
+      775
+     speed:
+      {"1": 16.71903461755366, "2": 16.284743166104505, "3": 16.549546908948052, "4": 17.12854337200502, "5": 16.55395919414203, "6": 16.524992371566743}
+     AssetVal:
+      97338
+	总数:775
+第27名======
+玩家:18秒土加4尾巴 公示期结束:2020-12-01 16:19:05 SSR 41   六星式神 44   签到585天 收藏:2 ordersn:202011231501616-36-TMVQF2XY16XCZ
+	价格:225000	斗技:2200金币:29653277 体力:13392 勾玉:54518 图鉴:ssr=31/31 sp=14/15
+	御魂得分:     suitSum:
+      crit:
+       {"zhaocai-crit": 54246, "zhennv-crit": 57591, "kuanggu-crit": 60777, "poshi-crit": 72360}
+      criDmg:
+       {"poshi-criDmg": 37668, "zhaocai-criDmg": 53236, "kuanggu-criDmg": 55364, "zhennv-criDmg": 73472}
+      speed:
+       {"zhennv-speed": 30276, "poshi-speed": 29814, "zhaocai-speed": 42354, "kuanggu-speed": 43728}
+     subVal:
+      {"_": 82140}
+     subValSpeical:
+      {"": 882, "critRateAdditionVal": 43, "speedAdditionVal": 60, "_3": 19900}
+     speedSum-2:
+      14009.4504625
+     speedSum3:
+      153.733873224
+     subValEffect:
+      {"zhaocai": 276, "poshi": 299, "_4": 4881, "suit0": 3180, "genv": 79, "huang": 95, "kuanggu": 459, "zhennv": 493}
+     equipnum:
+      985
+     speed:
+      {"1": 16.797800695269533, "2": 13.639368598306666, "3": 16.483224292418726, "4": 16.555746640082184, "5": 16.67652938724582, "6": 16.58120361023264}
+     AssetVal:
+      71098
+	总数:985
+第28名======
+玩家:灬叶落无心灬 公示期结束:2020-12-03 21:30:37 SSR 49   六星式神 55   签到1036天 收藏:5 ordersn:202011252101616-12-4IH2QBEJIA94G
+	价格:288800	斗技:2200金币:1390166 体力:1162 勾玉:10488 图鉴:ssr=31/31 sp=15/16
+	御魂得分:     suitSum:
+      crit:
+       {"zhaocai-crit": 69339, "zhennv-crit": 54663, "kuanggu-crit": 62469, "poshi-crit": 67776}
+      criDmg:
+       {"poshi-criDmg": 77752, "zhaocai-criDmg": 17780, "kuanggu-criDmg": 36596, "zhennv-criDmg": 17212}
+      speed:
+       {"zhennv-speed": 57291, "poshi-speed": 55839, "zhaocai-speed": 43110, "kuanggu-speed": 55995}
+     subVal:
+      {"_": 71634}
+     subValSpeical:
+      {"": 779, "critRateAdditionVal": 35, "speedAdditionVal": 54, "_3": 18100}
+     speedSum-2:
+      13979.488692
+     speedSum3:
+      155.866222507
+     subValEffect:
+      {"zhaocai": 425, "poshi": 368, "_4": 4634, "suit0": 2881, "genv": 37, "huang": 173, "kuanggu": 418, "zhennv": 332}
+     equipnum:
+      868
+     speed:
+      {"1": 16.796377126807347, "2": 16.071335586842174, "3": 16.532143975230845, "4": 16.741561964602873, "5": 16.294622032152365, "6": 16.430181820914804}
+     AssetVal:
+      11532
+	总数:868
+第29名======
+玩家:梧桐树 公示期结束:2020-12-01 21:24:31 SSR 48   六星式神 65   签到1014天 收藏:5 ordersn:202011232001616-15-SDZ2HJQBP7QJW
+	价格:229900	斗技:2200金币:9134783 体力:48285 勾玉:9980 图鉴:ssr=31/31 sp=15/15
+	御魂得分:     suitSum:
+      crit:
+       {"zhaocai-crit": 43110, "zhennv-crit": 43350, "kuanggu-crit": 27714, "poshi-crit": 57564}
+      criDmg:
+       {"poshi-criDmg": 54568, "zhaocai-criDmg": 18312, "kuanggu-criDmg": 54208, "zhennv-criDmg": 36584}
+      speed:
+       {"zhennv-speed": 29844, "poshi-speed": 25620, "zhaocai-speed": 58635, "kuanggu-speed": 45804}
+     subVal:
+      {"_": 77688}
+     subValSpeical:
+      {"": 944, "critRateAdditionVal": 27, "speedAdditionVal": 56, "_3": 22900}
+     speedSum-2:
+      14044.974246
+     speedSum3:
+      156.096364253
+     subValEffect:
+      {"zhaocai": 480, "poshi": 471, "_4": 4601, "suit0": 2654, "genv": 53, "huang": 135, "kuanggu": 369, "zhennv": 439}
+     equipnum:
+      1027
+     speed:
+      {"1": 16.767176234035052, "2": 15.646621792298882, "3": 15.95344101870633, "4": 16.73731844008278, "5": 16.902813706318824, "6": 17.08899306124419}
+     AssetVal:
+      37166
+	总数:1027
+第30名======
+玩家:灼眼的夏娜碳 公示期结束:2020-12-03 01:00:54 SSR 68   六星式神 72   签到1358天 收藏:1 ordersn:202011250001616-12-OT1YH9YI0878U
+	价格:250000	斗技:2200金币:4612960 体力:14815 勾玉:577 图鉴:ssr=30/31 sp=13/15
+	御魂得分:     suitSum:
+      crit:
+       {"zhaocai-crit": 60687, "zhennv-crit": 56073, "kuanggu-crit": 57582, "poshi-crit": 83469}
+      criDmg:
+       {"poshi-criDmg": 58316, "zhaocai-criDmg": 18964, "kuanggu-criDmg": 36420, "zhennv-criDmg": 92104}
+      speed:
+       {"zhennv-speed": 41280, "poshi-speed": 56067, "zhaocai-speed": 72996, "kuanggu-speed": 13833}
+     subVal:
+      {"_": 78936}
+     subValSpeical:
+      {"": 963, "critRateAdditionVal": 42, "speedAdditionVal": 56, "_3": 27300}
+     speedSum-2:
+      14100.8195645
+     speedSum3:
+      157.847339375
+     subValEffect:
+      {"zhaocai": 323, "poshi": 541, "_4": 4582, "suit0": 2954, "genv": 46, "huang": 80, "kuanggu": 257, "zhennv": 381}
+     equipnum:
+      1061
+     speed:
+      {"1": 17.18074188490356, "2": 16.83914372933608, "3": 16.688474144029353, "4": 16.463036042526277, "5": 16.64288713210415, "6": 17.033056441674407}
+     AssetVal:
+      9521
+	总数:1061
+第31名======
+玩家:ToTccc 公示期结束:2020-12-06 16:36:27 SSR 42   六星式神 101   签到501天 收藏:3 ordersn:202011281601616-39-9G9EB3GJ0CEQN
+	价格:255500	斗技:2118金币:31682101 体力:4460 勾玉:44 图鉴:ssr=31/31 sp=14/16
+	御魂得分:     suitSum:
+      crit:
+       {"zhaocai-crit": 43065, "zhennv-crit": 42699, "kuanggu-crit": 29250, "poshi-crit": 54006}
+      criDmg:
+       {"poshi-criDmg": 60080, "zhaocai-criDmg": 60480, "kuanggu-criDmg": 0, "zhennv-criDmg": 76712}
+      speed:
+       {"zhennv-speed": 46044, "poshi-speed": 41547, "zhaocai-speed": 44364, "kuanggu-speed": 43599}
+     subVal:
+      {"_": 110755}
+     subValSpeical:
+      {"": 1184, "critRateAdditionVal": 53, "speedAdditionVal": 80, "_3": 24200}
+     speedSum-2:
+      14052.6408918
+     speedSum3:
+      154.41299585
+     subValEffect:
+      {"genv": 64, "poshi": 312, "_4": 6395, "suit0": 4798, "zhaocai": 529, "huang": 76, "kuanggu": 357, "zhennv": 259}
+     equipnum:
+      1317
+     speed:
+      {"1": 16.526784099753144, "2": 13.88658693126279, "3": 16.64903949690736, "4": 16.541301716617134, "5": 16.936007388887734, "6": 16.8732762161412}
+     AssetVal:
+      12834
+	总数:1317
+第32名======
+玩家:猫系暖男 公示期结束:2020-12-05 10:18:40 SSR 98   六星式神 97   签到1225天 收藏:0 ordersn:202011270901616-10-ZLVAOCAD5WY0O
+	价格:250000	斗技:2026金币:12545507 体力:32343 勾玉:1361 图鉴:ssr=31/31 sp=14/16
+	御魂得分:     suitSum:
+      crit:
+       {"zhaocai-crit": 43296, "zhennv-crit": 57051, "kuanggu-crit": 30375, "poshi-crit": 54819}
+      criDmg:
+       {"poshi-criDmg": 71276, "zhaocai-criDmg": 71524, "kuanggu-criDmg": 58204, "zhennv-criDmg": 17572}
+      speed:
+       {"zhennv-speed": 49725, "poshi-speed": 57372, "zhaocai-speed": 72108, "kuanggu-speed": 55422}
+     subVal:
+      {"_": 100362}
+     subValSpeical:
+      {"": 1345, "critRateAdditionVal": 34, "speedAdditionVal": 61, "_3": 17100}
+     speedSum-2:
+      14060.2809519
+     speedSum3:
+      154.811610426
+     subValEffect:
+      {"zhaocai": 481, "poshi": 349, "_4": 5454, "suit0": 3525, "genv": 78, "huang": 151, "kuanggu": 293, "zhennv": 577}
+     equipnum:
+      1440
+     speed:
+      {"1": 16.552316136882546, "2": 14.208800907181129, "3": 16.790797289312167, "4": 17.112874351341606, "5": 16.57134672576977, "6": 16.575475015501258}
+     AssetVal:
+      21713
+	总数:1440
+第33名======
+玩家:宫阙残梦 公示期结束:2020-11-04 21:00:24 SSR 53   六星式神 85   签到1075天 收藏:12 ordersn:202010272001616-13-Z2GZJMIRTBPTT
+	价格:280000	斗技:2012金币:4073262 体力:10134 勾玉:16237 图鉴:ssr=30/31 sp=15/15
 	御魂得分:     suitSum:
       crit:
        {"zhaocai-crit": 58431, "zhennv-crit": 46914, "kuanggu-crit": 39846, "poshi-crit": 58092}
@@ -1266,10 +888,91 @@
      speed:
       {"1": 16.739309536436117, "2": 15.587482966485805, "3": 16.386505221150458, "4": 16.617095398804793, "5": 16.809075616291373, "6": 16.52606713565578}
      AssetVal:
-      25377
+      22661
 	总数:1031
-第48名======
-玩家:miki丶青箬 公示期结束:2020-11-22 22:00:18 SSR 62   六星式神 72   签到929天 收藏:1 ordersn:202011142101616-24-3CJSYFRLEREC6
+第34名======
+玩家:破魔蜗牛 公示期结束:2020-11-24 14:20:32 SSR 63   六星式神 42   签到617天 收藏:0 ordersn:202011161301616-37-RSJPX4XSXENNP
+	价格:219900	斗技:2009金币:16893861 体力:33989 勾玉:4260 图鉴:ssr=31/31 sp=14/15
+	御魂得分:     suitSum:
+      crit:
+       {"zhaocai-crit": 44604, "zhennv-crit": 29922, "kuanggu-crit": 83109, "poshi-crit": 86772}
+      criDmg:
+       {"poshi-criDmg": 35680, "zhaocai-criDmg": 79536, "kuanggu-criDmg": 36508, "zhennv-criDmg": 39784}
+      speed:
+       {"zhennv-speed": 43128, "poshi-speed": 30300, "zhaocai-speed": 13692, "kuanggu-speed": 13806}
+     subVal:
+      {"_": 69138}
+     subValSpeical:
+      {"": 799, "critRateAdditionVal": 40, "speedAdditionVal": 33, "_3": 16400}
+     speedSum-2:
+      13909.6032004
+     speedSum3:
+      155.266032866
+     subValEffect:
+      {"genv": 155, "poshi": 440, "_4": 4711, "suit0": 2936, "zhaocai": 299, "huang": 94, "kuanggu": 248, "zhennv": 539}
+     equipnum:
+      872
+     speed:
+      {"1": 16.74573873597257, "2": 16.170000862163807, "3": 16.680431402299423, "4": 16.319509017752985, "5": 15.725238769355208, "6": 16.62511407842963}
+     AssetVal:
+      26885
+	总数:872
+第35名======
+玩家:散58招满土18 公示期结束:2020-11-30 12:11:04 SSR 59   六星式神 94   签到1381天 收藏:17 ordersn:202011212201616-10-X4EFRJJTMIXWR
+	价格:259900	斗技:2000金币:17459517 体力:18636 勾玉:2643 图鉴:ssr=29/31 sp=13/15
+	御魂得分:     suitSum:
+      crit:
+       {"zhaocai-crit": 49839, "zhennv-crit": 45258, "kuanggu-crit": 39714, "poshi-crit": 70260}
+      criDmg:
+       {"poshi-criDmg": 72028, "zhaocai-criDmg": 90284, "kuanggu-criDmg": 40176, "zhennv-criDmg": 34872}
+      speed:
+       {"zhennv-speed": 62130, "poshi-speed": 46488, "zhaocai-speed": 80037, "kuanggu-speed": 41757}
+     subVal:
+      {"_": 141866}
+     subValSpeical:
+      {"": 1556, "critRateAdditionVal": 54, "speedAdditionVal": 101, "_3": 33000}
+     speedSum-2:
+      14091.2729694
+     speedSum3:
+      157.306251903
+     subValEffect:
+      {"zhaocai": 919, "poshi": 722, "_4": 8592, "suit0": 5753, "genv": 63, "huang": 115, "kuanggu": 299, "zhennv": 721}
+     equipnum:
+      1711
+     speed:
+      {"1": 16.969040099720136, "2": 16.393522208645585, "3": 16.74602141202191, "4": 16.629075496772128, "5": 16.897356167810994, "6": 16.67123651786246}
+     AssetVal:
+      17780
+	总数:1711
+第36名======
+玩家:狗尾巴草的梦 公示期结束:2020-12-02 16:26:45 SSR 78   六星式神 91   签到1234天 收藏:17 ordersn:202011222301616-13-NBERTDB10C1WX
+	价格:270000	斗技:2000金币:37564869 体力:21177 勾玉:2219 图鉴:ssr=31/31 sp=15/15
+	御魂得分:     suitSum:
+      crit:
+       {"zhaocai-crit": 59583, "zhennv-crit": 70866, "kuanggu-crit": 60837, "poshi-crit": 70257}
+      criDmg:
+       {"poshi-criDmg": 114292, "zhaocai-criDmg": 60388, "kuanggu-criDmg": 90288, "zhennv-criDmg": 55724}
+      speed:
+       {"zhennv-speed": 57330, "poshi-speed": 85125, "zhaocai-speed": 57288, "kuanggu-speed": 60225}
+     subVal:
+      {"_": 126281}
+     subValSpeical:
+      {"": 1471, "critRateAdditionVal": 61, "speedAdditionVal": 91, "_3": 29300}
+     speedSum-2:
+      14065.7753464
+     speedSum3:
+      154.227808412
+     subValEffect:
+      {"zhaocai": 855, "poshi": 744, "_4": 7976, "suit0": 4999, "genv": 114, "huang": 138, "kuanggu": 356, "zhennv": 770}
+     equipnum:
+      1623
+     speed:
+      {"1": 16.748088609395076, "2": 13.570054947695418, "3": 16.94757483844191, "4": 16.750031040295795, "5": 16.461538105624484, "6": 16.75052087011902}
+     AssetVal:
+      25328
+	总数:1623
+第37名======
+玩家:miki丶青箬 公示期结束:2020-11-22 22:00:18 SSR 62   六星式神 72   签到929天 收藏:0 ordersn:202011142101616-24-3CJSYFRLEREC6
 	价格:300000	斗技:2000金币:6066913 体力:17266 勾玉:19118 图鉴:ssr=31/31 sp=15/15
 	御魂得分:     suitSum:
       crit:
@@ -1293,32 +996,329 @@
      speed:
       {"1": 17.005444481820902, "2": 14.11051628434252, "3": 16.34174461925508, "4": 16.754015514628406, "5": 16.654883053546232, "6": 16.932396386446236}
      AssetVal:
-      33817
+      29773
 	总数:1136
-第49名======
-玩家:少年归来 公示期结束:2020-10-12 02:25:35 SSR 47   六星式神 52   签到1077天 收藏:2 ordersn:202010040101616-12-BX6ETM8UBLI6S
-	价格:200000	斗技:2000金币:9685601 体力:5055 勾玉:61 图鉴:ssr=30/30 sp=14/15
+第38名======
+玩家:请你恰奶茶 公示期结束:2020-11-17 22:51:15 SSR 66   六星式神 81   签到1132天 收藏:8 ordersn:202011092201616-5-CLG0FCWFJI1SUH
+	价格:288800	斗技:2000金币:29828974 体力:19560 勾玉:39886 图鉴:ssr=31/31 sp=15/15
 	御魂得分:     suitSum:
       crit:
-       {"zhaocai-crit": 56331, "zhennv-crit": 43989, "kuanggu-crit": 42132, "poshi-crit": 30009}
+       {"zhaocai-crit": 44322, "zhennv-crit": 71235, "kuanggu-crit": 54039, "poshi-crit": 32811}
       criDmg:
-       {"poshi-criDmg": 61564, "zhaocai-criDmg": 18396, "kuanggu-criDmg": 56576, "zhennv-criDmg": 18636}
+       {"poshi-criDmg": 102076, "zhaocai-criDmg": 39388, "kuanggu-criDmg": 57816, "zhennv-criDmg": 75544}
       speed:
-       {"zhennv-speed": 56520, "poshi-speed": 45687, "zhaocai-speed": 82236, "kuanggu-speed": 62505}
+       {"zhennv-speed": 56979, "poshi-speed": 26910, "zhaocai-speed": 71223, "kuanggu-speed": 49875}
      subVal:
-      {"_": 105754}
+      {"_": 110004}
      subValSpeical:
-      {"": 1045, "critRateAdditionVal": 53, "speedAdditionVal": 112, "_3": 38300}
+      {"": 1302, "critRateAdditionVal": 45, "speedAdditionVal": 79, "_3": 24700}
      speedSum-2:
-      14076.6971092
+      14077.9035841
      speedSum3:
-      157.027359555
+      156.708898108
      subValEffect:
-      {"genv": 95, "poshi": 436, "_4": 6976, "suit0": 4793, "zhaocai": 702, "huang": 254, "kuanggu": 318, "zhennv": 378}
+      {"zhaocai": 666, "poshi": 306, "_4": 6389, "suit0": 4396, "genv": 26, "huang": 169, "kuanggu": 405, "zhennv": 421}
      equipnum:
-      1210
+      1426
      speed:
-      {"1": 17.00730472238463, "2": 16.26038846343359, "3": 16.77756241279006, "4": 16.408430026484844, "5": 16.836712215477565, "6": 16.736961714550215}
+      {"1": 17.013509317359457, "2": 15.92986226710074, "3": 16.593227361995034, "4": 16.473089941253992, "5": 16.46440377179819, "6": 17.234805448432887}
      AssetVal:
-      12273
-	总数:1210
+      59608
+	总数:1426
+第39名======
+玩家:炫梦o爱me 公示期结束:2020-11-29 21:24:22 SSR 77   六星式神 76   签到1017天 收藏:0 ordersn:202011212001616-2-7RFH2BY9NX31OS
+	价格:288800	斗技:2000金币:11203845 体力:18962 勾玉:4906 图鉴:ssr=30/31 sp=14/15
+	御魂得分:     suitSum:
+      crit:
+       {"zhaocai-crit": 55893, "zhennv-crit": 47013, "kuanggu-crit": 54582, "poshi-crit": 54378}
+      criDmg:
+       {"poshi-criDmg": 98680, "zhaocai-criDmg": 17736, "kuanggu-criDmg": 0, "zhennv-criDmg": 102432}
+      speed:
+       {"zhennv-speed": 56724, "poshi-speed": 26802, "zhaocai-speed": 79158, "kuanggu-speed": 57345}
+     subVal:
+      {"_": 87391}
+     subValSpeical:
+      {"": 1054, "critRateAdditionVal": 43, "speedAdditionVal": 73, "_3": 25800}
+     speedSum-2:
+      14126.6335786
+     speedSum3:
+      156.949893153
+     subValEffect:
+      {"zhaocai": 592, "poshi": 486, "_4": 5849, "suit0": 3654, "genv": 34, "huang": 135, "kuanggu": 261, "zhennv": 687}
+     equipnum:
+      1170
+     speed:
+      {"1": 16.661515471824565, "2": 15.683557366336334, "3": 16.924084427838086, "4": 16.87869757728901, "5": 17.082624485361144, "6": 16.719413823883002}
+     AssetVal:
+      18121
+	总数:1170
+第40名======
+玩家:Dr丶平凡 公示期结束:2020-11-05 10:01:05 SSR 68   六星式神 62   签到812天 收藏:5 ordersn:202010280901616-16-RNIQFBJWNTVQX
+	价格:280000	斗技:2000金币:80137288 体力:78313 勾玉:56411 图鉴:ssr=31/31 sp=15/15
+	御魂得分:     suitSum:
+      crit:
+       {"zhaocai-crit": 43479, "zhennv-crit": 57195, "kuanggu-crit": 27153, "poshi-crit": 60351}
+      criDmg:
+       {"poshi-criDmg": 61376, "zhaocai-criDmg": 59108, "kuanggu-criDmg": 38604, "zhennv-criDmg": 38952}
+      speed:
+       {"zhennv-speed": 48336, "poshi-speed": 74613, "zhaocai-speed": 82950, "kuanggu-speed": 39954}
+     subVal:
+      {"_": 89973}
+     subValSpeical:
+      {"": 995, "critRateAdditionVal": 39, "speedAdditionVal": 75, "_3": 23700}
+     speedSum-2:
+      14140.5385538
+     speedSum3:
+      157.129546999
+     subValEffect:
+      {"genv": 66, "poshi": 536, "_4": 5846, "suit0": 3899, "zhaocai": 578, "huang": 165, "kuanggu": 131, "zhennv": 471}
+     equipnum:
+      1109
+     speed:
+      {"1": 16.675676551177894, "2": 15.724161460561636, "3": 16.878259506648913, "4": 17.016202954691074, "5": 16.628563855869547, "6": 17.206682669824435}
+     AssetVal:
+      122279
+	总数:1109
+第41名======
+玩家:天剑韧心鬼切 公示期结束:2020-11-08 17:33:39 SSR 55   六星式神 76   签到946天 收藏:6 ordersn:202010311701616-15-BPDGFP7HUXIHD
+	价格:225000	斗技:2000金币:13197510 体力:20294 勾玉:13803 图鉴:ssr=30/31 sp=14/15
+	御魂得分:     suitSum:
+      crit:
+       {"zhaocai-crit": 86031, "zhennv-crit": 56877, "kuanggu-crit": 16440, "poshi-crit": 56748}
+      criDmg:
+       {"poshi-criDmg": 102156, "zhaocai-criDmg": 74452, "kuanggu-criDmg": 78708, "zhennv-criDmg": 36848}
+      speed:
+       {"zhennv-speed": 54279, "poshi-speed": 28224, "zhaocai-speed": 72057, "kuanggu-speed": 27348}
+     subVal:
+      {"_": 79364}
+     subValSpeical:
+      {"": 829, "critRateAdditionVal": 47, "speedAdditionVal": 60, "_3": 17700}
+     speedSum-2:
+      14053.4649766
+     speedSum3:
+      154.455599738
+     subValEffect:
+      {"zhaocai": 786, "poshi": 514, "_4": 5721, "suit0": 3723, "genv": 10, "huang": 186, "kuanggu": 143, "zhennv": 359}
+     equipnum:
+      936
+     speed:
+      {"1": 16.892768194392005, "2": 13.920949971614423, "3": 17.11183622165011, "4": 16.952755843644617, "5": 16.415239943039452, "6": 16.16204956347998}
+     AssetVal:
+      28349
+	总数:936
+第42名======
+玩家:菜菜放歌 公示期结束:2020-12-05 14:26:40 SSR 62   六星式神 72   签到1182天 收藏:1 ordersn:202011271301616-3-A7BMOOWPHMAGIR
+	价格:250000	斗技:2000金币:3333115 体力:30843 勾玉:429 图鉴:ssr=28/31 sp=13/16
+	御魂得分:     suitSum:
+      crit:
+       {"zhaocai-crit": 44169, "zhennv-crit": 56649, "kuanggu-crit": 42432, "poshi-crit": 68346}
+      criDmg:
+       {"poshi-criDmg": 79184, "zhaocai-criDmg": 55140, "kuanggu-criDmg": 21884, "zhennv-criDmg": 0}
+      speed:
+       {"zhennv-speed": 56991, "poshi-speed": 56019, "zhaocai-speed": 78735, "kuanggu-speed": 44751}
+     subVal:
+      {"_": 90780}
+     subValSpeical:
+      {"": 1098, "critRateAdditionVal": 37, "speedAdditionVal": 61, "_3": 28400}
+     speedSum-2:
+      14085.0737159
+     speedSum3:
+      157.518909974
+     subValEffect:
+      {"genv": 73, "poshi": 437, "_4": 5580, "suit0": 3941, "zhaocai": 444, "huang": 65, "kuanggu": 281, "zhennv": 339}
+     equipnum:
+      1196
+     speed:
+      {"1": 17.16933919649907, "2": 16.668172814818462, "3": 16.873061971551508, "4": 16.91836765933219, "5": 16.343626671537855, "6": 16.546341660520426}
+     AssetVal:
+      16961
+	总数:1196
+第43名======
+玩家:夜雨星繁 公示期结束:2020-12-07 02:42:33 SSR 45   六星式神 66   签到758天 收藏:0 ordersn:202011290201616-17-GFBJRL9VZAKWD
+	价格:250000	斗技:2000金币:28676657 体力:18438 勾玉:48730 图鉴:ssr=31/31 sp=15/16
+	御魂得分:     suitSum:
+      crit:
+       {"zhaocai-crit": 53958, "zhennv-crit": 56742, "kuanggu-crit": 52914, "poshi-crit": 43329}
+      criDmg:
+       {"poshi-criDmg": 35924, "zhaocai-criDmg": 76796, "kuanggu-criDmg": 35916, "zhennv-criDmg": 62072}
+      speed:
+       {"zhennv-speed": 58992, "poshi-speed": 40179, "zhaocai-speed": 78225, "kuanggu-speed": 29586}
+     subVal:
+      {"_": 82781}
+     subValSpeical:
+      {"": 916, "critRateAdditionVal": 34, "speedAdditionVal": 52, "_3": 18500}
+     speedSum-2:
+      14068.0242512
+     speedSum3:
+      155.094518177
+     subValEffect:
+      {"zhaocai": 667, "poshi": 307, "_4": 5107, "suit0": 3071, "genv": 102, "huang": 183, "kuanggu": 299, "zhennv": 478}
+     equipnum:
+      1002
+     speed:
+      {"1": 16.92507950195872, "2": 14.414275664979282, "3": 16.88900307301499, "4": 16.524831879204193, "5": 16.6695472976277, "6": 16.671780760460166}
+     AssetVal:
+      67507
+	总数:1002
+第44名======
+玩家:小苏打水吖 公示期结束:2020-12-06 10:34:34 SSR 77   六星式神 61   签到1190天 收藏:1 ordersn:202011280801616-10-1JYLZKEVAZ4EE
+	价格:230000	斗技:2000金币:24236231 体力:53945 勾玉:88 图鉴:ssr=30/31 sp=14/16
+	御魂得分:     suitSum:
+      crit:
+       {"zhaocai-crit": 31821, "zhennv-crit": 56532, "kuanggu-crit": 44157, "poshi-crit": 42846}
+      criDmg:
+       {"poshi-criDmg": 35540, "zhaocai-criDmg": 57908, "kuanggu-criDmg": 37808, "zhennv-criDmg": 56680}
+      speed:
+       {"zhennv-speed": 40164, "poshi-speed": 44256, "zhaocai-speed": 77709, "kuanggu-speed": 29742}
+     subVal:
+      {"_": 68709}
+     subValSpeical:
+      {"": 771, "critRateAdditionVal": 32, "speedAdditionVal": 67, "_3": 24600}
+     speedSum-2:
+      14113.1079115
+     speedSum3:
+      158.34682433
+     subValEffect:
+      {"zhaocai": 584, "poshi": 282, "_4": 4755, "suit0": 3079, "genv": 115, "huang": 116, "kuanggu": 227, "zhennv": 352}
+     equipnum:
+      870
+     speed:
+      {"1": 16.920929405115377, "2": 17.21574521534111, "3": 16.9967084559647, "4": 16.127690575381912, "5": 16.819753121042563, "6": 17.265997557481157}
+     AssetVal:
+      35138
+	总数:870
+第45名======
+玩家:放风筝的狐狸 公示期结束:2020-12-04 11:51:02 SSR 39   六星式神 43   签到572天 收藏:0 ordersn:202011261101616-3-THQJBLL7HOAC47
+	价格:204900	斗技:2000金币:1670279 体力:27006 勾玉:45343 图鉴:ssr=31/31 sp=13/16
+	御魂得分:     suitSum:
+      crit:
+       {"zhaocai-crit": 29634, "zhennv-crit": 55068, "kuanggu-crit": 56334, "poshi-crit": 43965}
+      criDmg:
+       {"poshi-criDmg": 80260, "zhaocai-criDmg": 36724, "kuanggu-criDmg": 39348, "zhennv-criDmg": 41812}
+      speed:
+       {"zhennv-speed": 49692, "poshi-speed": 55392, "zhaocai-speed": 46506, "kuanggu-speed": 13941}
+     subVal:
+      {"_": 68993}
+     subValSpeical:
+      {"": 686, "critRateAdditionVal": 42, "speedAdditionVal": 54, "_3": 23700}
+     speedSum-2:
+      14078.8308879
+     speedSum3:
+      157.211023141
+     subValEffect:
+      {"zhaocai": 339, "poshi": 414, "_4": 4730, "suit0": 3354, "genv": 39, "huang": 83, "kuanggu": 249, "zhennv": 252}
+     equipnum:
+      782
+     speed:
+      {"1": 16.943818551393093, "2": 16.422714262190112, "3": 17.111314671442457, "4": 16.591341475616385, "5": 16.303909729148117, "6": 16.83792445113169}
+     AssetVal:
+      59402
+	总数:782
+第46名======
+玩家:七七七七牙丸 公示期结束:2020-12-05 23:35:54 SSR 53   六星式神 65   签到670天 收藏:5 ordersn:202011271801616-34-EIWGV6OS3ITLA
+	价格:271800	斗技:2000金币:10099043 体力:36785 勾玉:40936 图鉴:ssr=31/31 sp=16/16
+	御魂得分:     suitSum:
+      crit:
+       {"zhaocai-crit": 43650, "zhennv-crit": 54018, "kuanggu-crit": 26622, "poshi-crit": 61647}
+      criDmg:
+       {"poshi-criDmg": 37096, "zhaocai-criDmg": 75872, "kuanggu-criDmg": 36360, "zhennv-criDmg": 41864}
+      speed:
+       {"zhennv-speed": 55749, "poshi-speed": 45492, "zhaocai-speed": 73857, "kuanggu-speed": 44841}
+     subVal:
+      {"_": 71670}
+     subValSpeical:
+      {"": 791, "critRateAdditionVal": 40, "speedAdditionVal": 53, "_3": 23400}
+     speedSum-2:
+      14040.1345483
+     speedSum3:
+      157.4462632
+     subValEffect:
+      {"zhaocai": 427, "poshi": 365, "_4": 4685, "suit0": 3007, "genv": 77, "huang": 181, "kuanggu": 194, "zhennv": 434}
+     equipnum:
+      884
+     speed:
+      {"1": 16.86359707817879, "2": 17.044917717440857, "3": 16.527747162138407, "4": 16.21482728028652, "5": 16.89527443997742, "6": 16.89989952231268}
+     AssetVal:
+      62694
+	总数:884
+第47名======
+玩家:憨憨的小诗人 公示期结束:2020-12-05 21:09:56 SSR 58   六星式神 53   签到955天 收藏:1 ordersn:202011272001616-27-NABOK3MJEOT39
+	价格:300000	斗技:2000金币:1869269 体力:19947 勾玉:14579 图鉴:ssr=31/31 sp=16/16
+	御魂得分:     suitSum:
+      crit:
+       {"zhaocai-crit": 30222, "zhennv-crit": 61071, "kuanggu-crit": 0, "poshi-crit": 54342}
+      criDmg:
+       {"poshi-criDmg": 55204, "zhaocai-criDmg": 74744, "kuanggu-criDmg": 75124, "zhennv-criDmg": 78780}
+      speed:
+       {"zhennv-speed": 28806, "poshi-speed": 46095, "zhaocai-speed": 61683, "kuanggu-speed": 58314}
+     subVal:
+      {"_": 69940}
+     subValSpeical:
+      {"": 867, "critRateAdditionVal": 40, "speedAdditionVal": 61, "_3": 23300}
+     speedSum-2:
+      14154.0401867
+     speedSum3:
+      158.130143786
+     subValEffect:
+      {"zhaocai": 289, "poshi": 326, "_4": 4590, "suit0": 2943, "genv": 191, "huang": 135, "kuanggu": 252, "zhennv": 454}
+     equipnum:
+      968
+     speed:
+      {"1": 16.61514723684274, "2": 16.589741919334315, "3": 16.811744975587967, "4": 17.06870694733679, "5": 16.916506307078016, "6": 17.12829639971394}
+     AssetVal:
+      25175
+	总数:968
+第48名======
+玩家:来个妞08 公示期结束:2020-12-02 18:59:42 SSR 72   六星式神 71   签到1243天 收藏:2 ordersn:202011241801616-12-WCNJK5PQLDVXQ
+	价格:300000	斗技:1995金币:20779688 体力:17858 勾玉:5548 图鉴:ssr=31/31 sp=15/15
+	御魂得分:     suitSum:
+      crit:
+       {"zhaocai-crit": 89082, "zhennv-crit": 70440, "kuanggu-crit": 89442, "poshi-crit": 76182}
+      criDmg:
+       {"poshi-criDmg": 35712, "zhaocai-criDmg": 61368, "kuanggu-criDmg": 75768, "zhennv-criDmg": 52088}
+      speed:
+       {"zhennv-speed": 32466, "poshi-speed": 46173, "zhaocai-speed": 93030, "kuanggu-speed": 56913}
+     subVal:
+      {"_": 100734}
+     subValSpeical:
+      {"": 988, "critRateAdditionVal": 49, "speedAdditionVal": 104, "_3": 32100}
+     speedSum-2:
+      14099.4764126
+     speedSum3:
+      157.268844164
+     subValEffect:
+      {"zhaocai": 885, "poshi": 755, "_4": 7488, "suit0": 4263, "genv": 179, "huang": 137, "kuanggu": 783, "zhennv": 486}
+     equipnum:
+      1141
+     speed:
+      {"1": 16.79367558083356, "2": 16.274080037678665, "3": 16.753891856805588, "4": 16.78562173937906, "5": 16.724696072479475, "6": 16.93687887641617}
+     AssetVal:
+      21403
+	总数:1141
+第49名======
+玩家:Dongg 公示期结束:2020-11-06 23:36:15 SSR 71   六星式神 69   签到1280天 收藏:11 ordersn:202010292301616-10-YA7BOEFTOLQR0
+	价格:215000	斗技:1845金币:22376 体力:20180 勾玉:16373 图鉴:ssr=31/31 sp=15/15
+	御魂得分:     suitSum:
+      crit:
+       {"zhaocai-crit": 29136, "zhennv-crit": 48771, "kuanggu-crit": 69801, "poshi-crit": 41358}
+      criDmg:
+       {"poshi-criDmg": 36216, "zhaocai-criDmg": 56480, "kuanggu-criDmg": 56992, "zhennv-criDmg": 62348}
+      speed:
+       {"zhennv-speed": 44307, "poshi-speed": 89304, "zhaocai-speed": 73956, "kuanggu-speed": 12900}
+     subVal:
+      {"_": 99014}
+     subValSpeical:
+      {"": 1189, "critRateAdditionVal": 33, "speedAdditionVal": 55, "_3": 15500}
+     speedSum-2:
+      14069.9259622
+     speedSum3:
+      153.769279235
+     subValEffect:
+      {"zhaocai": 417, "poshi": 524, "_4": 5245, "suit0": 3530, "genv": 79, "huang": 103, "kuanggu": 285, "zhennv": 307}
+     equipnum:
+      1277
+     speed:
+      {"1": 17.035406588417406, "2": 13.070019613658033, "3": 16.940291561616544, "4": 16.867181034499886, "5": 16.271930723167532, "6": 16.58444971400883}
+     AssetVal:
+      26470
+	总数:1277
