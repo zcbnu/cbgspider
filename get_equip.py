@@ -118,7 +118,7 @@ def _sumSuit(statis):
 	for attr in _importantAttrs:
 		short = _importantShort[attr]
 		statis['suitSum'][short] = {}
-		for k,v in _suits.iteritems():
+		for k,v in _suits.items():
 			if v[1] not in _careSuit: continue
 			ret = 0
 			for pos in ['1','2','3','4','5','6']:
@@ -238,7 +238,7 @@ def printEquip(ordersn, serverid):
 		jstr = requests.post(source, data).text
 	# print(jstr)
 # matchObj=re.match('[^\()]*\((.*)\)$', response.text)
-	data=json.loads(jstr, encoding='utf-8')['equip']
+	data=json.loads(jstr)['equip']
 	analyseEquipData(data)
 	# with open('./detail/'+ordersn+str(serverid)+'.json', 'w') as f:
 	# 	f.write(json.dumps(data))
@@ -251,14 +251,14 @@ def analyseEquipData(data):
 	detail=json.loads(data['equip_desc'])
 	equip=detail['inventory']
 	data['detail'] = detail
-	for _,val in equip.iteritems():
+	for _,val in equip.items():
 		calEquipVal(val)
 	_statis['AssetVal'] = _calAsset(detail)[1]
 	_statis['speedSum3'] = sum(_statis['speed'].values()) + 57
 	_statis['speedSum-2'] = (sum(_statis['speed'].values()) + 57 -_statis['speed'][2])*100
 	_statis['equipnum'] = len(detail['inventory'])
 	_sumSuit(_statis)
-	# for key, v in _statis['subValSuit'].iteritems():
+	# for key, v in _statis['subValSuit'].items():
 	# 	if len(key) < 3 : continue
 	# 	params = key.split('-')
 	# 	if params[0] not in _statis['sumSuit'] : _statis['sumSuit'][params[0]] = 0
@@ -268,14 +268,14 @@ def analyseEquipData(data):
 _ignores = ['suit']
 def printStatis(statis):
 	c = {}
-	for k,v in statis.iteritems():
+	for k,v in statis.items():
 		if k not in _ignores: c[k]= v
 	return prettyPrint(c, 5)
 def dumpUserData(data):
 	detail=json.loads(data['equip_desc'])
 	equip=detail['inventory']
 	subval=''
-	for t,val in data['statis'].iteritems():
+	for t,val in data['statis'].items():
 		subval+='{}-{}\n\t'.format(t,json.dumps(val))
 	gallery='ssr={}/{} sp={}/{}'.format(detail['hero_history']['ssr']['got'],detail['hero_history']['ssr']['all'],detail['hero_history']['sp']['got'],detail['hero_history']['sp']['all'])
 	s=u'玩家:{name} 公示期结束:{fair_show_end_time} {desc_sumup_short} 收藏:{collect_num} ordersn:{ordersn}\n\t价格:{price}\t斗技:{pvp_score}金币:{money} 体力:{strength} 勾玉:{goyu} 图鉴:{gallery}\n\t御魂得分:{subVal}\t总数:{num}'
@@ -291,7 +291,7 @@ def printUserData(data):
 	print (tab,u'金币',detail['money'],u'体力',detail['strength'],u'勾玉',detail['goyu'], u'图鉴-ssr',detail['hero_history']['ssr']['got'],'/',detail['hero_history']['ssr']['all'],'sp',detail['hero_history']['sp']['got'],'/',detail['hero_history']['sp']['all'])
 	print (tab,u'斗技',detail['pvp_score'])
 	# print
-	# for t,val in data['statis'].iteritems():
+	# for t,val in data['statis'].items():
 	# 	print (tab,t,val)
 	print (printStatis(data['statis']))
 	print (tab,u'御魂总数',len(equip),'=======')
@@ -308,13 +308,13 @@ def prettyPrint(data, t=0, NextLine=False):
 		s+= str(data)
 		if NextLine: s+= '\n'
 		return s
-	vs = data.values()
+	vs = list(data.values())
 	if not isinstance(vs[0], dict): 
 		s+= pre
 		s+= json.dumps(data)
 		if NextLine: s+= '\n'
 		return s
-	for k,v in data.iteritems():
+	for k,v in data.items():
 		s += prettyPrint(k, t)
 		s += ':\n'
 		s += prettyPrint(v, t+1, True)
